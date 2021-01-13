@@ -174,7 +174,12 @@ img{
     z-index: var(--z-fixed);
   }
 }
-
+.nav__logo{
+  height:40px;
+  width:143px;
+  margin-bottom: auto;
+  padding-bottom: 5px;
+}
 .nav__item{
   margin-bottom: var(--mb-3);
 }
