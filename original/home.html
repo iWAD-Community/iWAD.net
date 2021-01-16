@@ -54,6 +54,134 @@
         </header>
         
 
+        <!--========== START OF SLIDER ==========-->
+
+        <style>
+          * {box-sizing: border-box;}
+          body {font-family: Verdana, sans-serif;}
+          .mySlides {display: none;}
+          img {vertical-align: middle;}
+          
+          /* Slideshow container */
+          .slideshow-container {
+            max-width: 1000px;
+            position: relative;
+            margin: auto;
+          }
+          
+          /* Caption text */
+          .text {
+            color: #f2f2f2;
+            font-size: 15px;
+            padding: 8px 12px;
+            position: absolute;
+            bottom: 8px;
+            width: 100%;
+            text-align: center;
+          }
+          
+          /* Number text (1/3 etc) */
+          .numbertext {
+            color: #f2f2f2;
+            font-size: 12px;
+            padding: 8px 12px;
+            position: absolute;
+            top: 0;
+          }
+          
+          /* The dots/bullets/indicators */
+          .dot {
+            height: 15px;
+            width: 15px;
+            margin: 0 2px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+          }
+          
+          .active {
+            background-color: #717171;
+          }
+          
+          /* Fading animation */
+          .fade {
+            -webkit-animation-name: fade;
+            -webkit-animation-duration: 1.5s;
+            animation-name: fade;
+            animation-duration: 1.5s;
+          }
+          
+          @-webkit-keyframes fade {
+            from {opacity: .4} 
+            to {opacity: 1}
+          }
+          
+          @keyframes fade {
+            from {opacity: .4} 
+            to {opacity: 1}
+          }
+          
+          /* On smaller screens, decrease text size */
+          @media only screen and (max-width: 300px) {
+            .text {font-size: 11px}
+          }
+          </style>
+          
+          <div class="slideshow-container">
+          
+          <div class="mySlides fade">
+            <div class="numbertext">1 / 3</div>
+            <img src="assets/img/resize-16108052131257561746pexelspixabay35550.jpg" style="width:100%">
+            <div class="text">SOFTWARE DEVELOPMENT</div>
+          </div>
+          
+          <div class="mySlides fade">
+            <div class="numbertext">2 / 3</div>
+            <img src="assets/img/pexels-pixabay-267507.jpg" style="width:100%">
+            <div class="text">COMPUTER SALES</div>
+          </div>
+          
+          <div class="mySlides fade">
+            <div class="numbertext">3 / 3</div>
+            <img src="assets/img/resize-1610805309478451968pexelskarolinagrabowska4968390.jpg" style="width:100%">
+            <div class="text">DIGITAL MARKETING</div>
+          </div>
+          
+          </div>
+          <br>
+          
+          <div style="text-align:center">
+            <span class="dot"></span> 
+            <span class="dot"></span> 
+            <span class="dot"></span> 
+          </div>
+          
+          <script>
+          var slideIndex = 0;
+          showSlides();
+          
+          function showSlides() {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("dot");
+            for (i = 0; i < slides.length; i++) {
+              slides[i].style.display = "none";  
+            }
+            slideIndex++;
+            if (slideIndex > slides.length) {slideIndex = 1}    
+            for (i = 0; i < dots.length; i++) {
+              dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex-1].style.display = "block";  
+            dots[slideIndex-1].className += " active";
+            setTimeout(showSlides, 3500); // Change image every 3.5 seconds
+          }
+          </script>
+          
+
+        <!--========== END OF SLIDER ==========-->
+
        
             <!--========== SHARE ==========-->
             <section class="share section bd-container" id="share">
@@ -69,111 +197,7 @@
                     </div>
                 </div>
             </section>
-  <!-- services section -->
-  <section class = "services py-4" id = "services">
-    <div class = "container">
-      <div class = "title">
-        <h2 class = "title-text">what we offer</h2>
-        <div class = "title-underline"></div>
-      </div>
 
-      <div class = "services-wrapper">
-        <!-- single item -->
-        <div class = "single-service overlay">
-          <span class = "services-icon">
-            <i class = "fas fa-gem"></i>
-          </span>
-          <div class = "single-service-content">
-            <h2 class = "text-large">Website development</h2>
-            <p class = "text-light">With the constant implementation of dynamic development methods, we come up with the best modern and secure designs for the business and website of our clients, at the same time maintaining quality and adaptiveness. #theBestInTheField</p>
-          </div>
-        </div>
-        <!-- end of single item -->
-        <!-- single item -->
-        <div class = "single-service overlay">
-          <span class = "services-icon">
-            <i class = "fas fa-rocket"></i>
-          </span>
-          <div class = "single-service-content">
-            <h2 class = "text-large">Android/IOS application Development</h2>
-            <p class = "text-light">iWAD Develops fully responsive, adaptive and easy to use Android and Apple IOS mobile Applications. Our Team then ensures 24/7 Support and Mantainance to bring the best exprience from your Application</p>
-          </div>
-        </div>
-        <!-- end of single item -->
-        <!-- single item -->
-        <div class = "single-service overlay">
-          <span class = "services-icon">
-            <i class = "fas fa-cogs"></i>
-          </span>
-          <div class = "single-service-content">
-            <h2 class = "text-large">Search Engine Optimization</h2>
-            <p class = "text-light">Be at the top of the Pack, a step ahead of your Competitors. Boost your Sales, reach a larger market with Google Ads, Facebook Ads and Youtube Ads. Get the best out of your Ecommerce website by Signing up for iWAD’s Search Engine Optimisation service.</p>
-          </div>
-        </div>
-        <!-- end of single item -->
-        <!-- single item -->
-        <div class = "single-service overlay">
-          <span class = "services-icon">
-            <i class = "fas fa-pen"></i>
-          </span>
-          <div class = "single-service-content">
-            <h2 class = "text-large">Hoasting & Domain Registration</h2>
-            <p class = "text-light">iWAD offers unlimited storage, unmetered bandwidth and unbeatable hosting; providing comprehensive tools to millions of users throughout Africa so that anyone can get on the web and thrive with our web hosting packages.</p>
-          </div>
-        </div>
-        <!-- end of single item -->
-        <!-- single item -->
-        <div class = "single-service overlay">
-          <span class = "services-icon">
-            <i class = "fas fa-clipboard-check"></i>
-          </span>
-          <div class = "single-service-content">
-            <h2 class = "text-large">Computer Services</h2>
-            <p class = "text-light">Hardware Repairs, Desktop Support and Computer sales; iWAD has got you covered. Get all your Computer gear handled and Maintained by iWAD and worry less about your System and Softwares becoming Obsolete.</p>
-          </div>
-        </div>
-        <!-- end of single item -->
-        <!-- single item -->
-        <div class = "single-service overlay">
-          <span class = "services-icon">
-            <i class = "fas fa-flask"></i>
-          </span>
-          <div class = "single-service-content">
-            <h2 class = "text-large">Designing</h2>
-            <p class = "text-light">Having trouble picking the right Logo for your company? or the theme color of your webpage? Or even the best design for your party flyers? No need to worry! iWAD has got you covered. From: Branding, Logo Design, Printing, Flyers and Billboard Designs; we will leave you satisfied.</p>
-          </div>
-        </div>
-        <!-- end of single item -->
-      </div>
-    </div>
-  </section>
-  <!-- end of services section -->
-
-            <!--========== three blocks ==========-->
-            <section class="decoration section bd-container" id="decoration">
-                <h2 class="section-title"> <br> For You from iWAD</h2>
-                <div class="decoration__container bd-grid">
-                    <div class="decoration__data">
-                        <img src="assets/img/decoration1.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title">iWAD gadgets</h3>
-                        <a href="#" class="button button-link">Go Shopping</a>
-                    </div>
-
-                    <div class="decoration__data">
-                        <img src="assets/img/decoration2.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title">iWAD bags</h3>
-                        <a href="#" class="button button-link">Go Shopping</a>
-                    </div>
-
-                    <div class="decoration__data">
-                        <img src="assets/img/decoration3.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title"> iWAD gaming </h3>
-                        <a href="#" class="button button-link">Go Shopping</a>
-                    </div>
-                </div>
-            </section>
-
-          
 
          
 
@@ -215,8 +239,37 @@
           </div>
         </div>
       </section>
+
+
       <!-- end of about section -->
-         <!--========== SEND Email ==========-->
+                  <!--========== three blocks ==========-->
+                  <section class="decoration section bd-container" id="decoration">
+                    <h2 class="section-title"> <br> For You from iWAD</h2>
+                    <div class="decoration__container bd-grid">
+                        <div class="decoration__data">
+                            <img src="assets/img/decoration1.png" alt="" class="decoration__img">
+                            <h3 class="decoration__title">iWAD gadgets</h3>
+                            <a href="#" class="button button-link">Go Shopping</a>
+                        </div>
+    
+                        <div class="decoration__data">
+                            <img src="assets/img/decoration2.png" alt="" class="decoration__img">
+                            <h3 class="decoration__title">iWAD bags</h3>
+                            <a href="#" class="button button-link">Go Shopping</a>
+                        </div>
+    
+                        <div class="decoration__data">
+                            <img src="assets/img/decoration3.png" alt="" class="decoration__img">
+                            <h3 class="decoration__title"> iWAD gaming </h3>
+                            <a href="#" class="button button-link">Go Shopping</a>
+                        </div>
+                    </div>
+                </section>
+    
+              
+    
+    
+      <!--========== SEND Email ==========-->
          <section class="send section">
             <div class="send__container bd-container bd-grid">
                 <div class="send__content">
