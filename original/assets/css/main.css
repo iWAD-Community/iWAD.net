@@ -594,7 +594,7 @@ textarea::placeholder{
 .btn-form{
     background: var(--malibu);
     border: none;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 0.8rem 2rem;
     font-size: 1rem;
     font-weight: 400;
