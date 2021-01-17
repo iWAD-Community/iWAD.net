@@ -805,7 +805,11 @@ body{
 
    }
 }
-
+  /*icons*/
+ .contact_icon{
+   height: 3vh;
+   width: 3vh;
+ }
 
 
 
