@@ -223,3 +223,12 @@ a:hover{
 		justify-content: center;
 	}
 }
+
+	.long_wrapper{
+		position: relative;
+		padding: 20px 40px 40px;
+		text-align: center;
+		overflow: hidden;
+		border-radius: 20px;
+		background-color: aquamarine;
+	}
