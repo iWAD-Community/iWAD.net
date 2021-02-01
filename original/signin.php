@@ -15,7 +15,7 @@
 		</div>
 		<div class="login-content">
 			<form action="includes/login.inc.php" method="post">
-				<img src="img/avatar.png">
+				<img src="assets/img/avatar1.png">
            		<div class="input-div one">
            		   <div class="i">
            		   		<i class="fas fa-user"></i>

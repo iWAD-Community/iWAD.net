@@ -15,7 +15,7 @@
 		</div>
 		<div class="login-content">
 		<form action="includes/signup.inc.php" method="post">
-				<img src="assets/img/avatar.png">
+				<img src="assets/img/avatar2.png">
 				<div class="input-div one">
 					<div class="i">
 							<i class="fas fa-lock"></i>
