@@ -1,3 +1,8 @@
+<?php
+  session_start();
+
+ ?>
+
 <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -30,31 +35,28 @@
             <i class='bx bx-up-arrow-alt scrolltop__icon'></i>
         </a>
        
-        <!--========== HEADER ==========-->
         <header class="l-header" id="header">
-            <nav class="nav bd-container">
-                <a href="Contacts.html" class="nav__logo"><img src="assets/img/home.png"></a>
-                <div class="nav__menu" id="nav-menu">
-                    <ul class="nav__list">
-                        
-                        <li class="nav__item"><a href="home.html" class="nav__link">Home</a></li>
-                        <li class="nav__item"><a href="Services.html" class="nav__link">Services</a></li>
-                        <li class="nav__item"><a href="About us.html" class="nav__link">About Us</a></li>
-                        <li class="nav__item"><a href="iwad Store.html" class="nav__link">iWAD Store</a></li>
-                        <li class="nav__item"><a href="Contacts.html" class="nav__link ">Contact Us</a></li>
-   
-                        <li class="nav__item"><a href="Iwad Responsive-sign up-Form-master/index.html" class="nav__links">Sign Up</a></li>
-                    
-                        <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
+          <nav class="nav bd-container">
+              <a href="About us.php" class="nav__item"><img src="assets/img/home.png"height="40px"width="143px"></a>                
+          
+              <div class="nav__menu" id="nav-menu">
+                  <ul class="nav__list">
+                      <li class="nav__item"><a href="home.php" class="nav__link">Home</a></li>
+                      <li class="nav__item"><a href="Services.php" class="nav__link">Services</a></li>
+                      <li class="nav__item"><a href="About us.php" class="nav__link active-link">About Us</a></li>
+                      <li class="nav__item"><a href="iwad Store.php" class="nav__link">Iwad Store</a></li>
+                      <li class="nav__item"><a href="Contacts.php" class="nav__link">Contact Us</a></li>
+ 
+                      <li class="nav__item"><a href="Iwad Responsive-sign up-Form-master/home.php" class="nav__links">Sign Up</a></li>
+                      <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
+                  </ul>
+              </div>
 
-                    </ul>
-                </div>
-
-                <div class="nav__toggle" id="nav-toggle">
-                    <i class='bx bx-grid-alt'></i>
-                </div>
-            </nav>
-        </header>
+              <div class="nav__toggle" id="nav-toggle">
+                  <i class='bx bx-grid-alt'></i>
+              </div>
+          </nav>
+      </header>
 
                
             <!--========== SHARE ==========-->
@@ -88,68 +90,68 @@
      <!--========== Start OUR SERVICES ==========-->
 
      <section class="decoration section bd-container" id="decoration">
-        <h2 class="section-title"> <br>Our Services</h2>
-        <div class="decoration__container bd-grid">
-            <div class="decoration__data">
-                
-                <a href="../original/WebDevelopment.html"><img src="assets/img/send1.png"  class="decoration__img" ></a>
-                <h3 class="decoration__title">Web Development</h3>
-               
-            </div>
-
-            <div class="decoration__data">
-         
-              <a href="../original/hosting.html">     <img src="assets/img/host.png"  alt="" class="decoration__img"></a>
-              <h3 class="decoration__title">
-                Hosting & Domain Registration</h3>
-            
-          </div>
-  
-
-            <div class="decoration__data">
-                <img src="assets/img/search.png" alt="" class="decoration__img">
-                <a href="../original/Search Opt.html"><h3 class="decoration__title"> search Engine optimization </h3></a>
-               
-            </div>
-        </div>
-          <br>
-        <div class="decoration__container bd-grid">
+      <h2 class="section-title"> <br>Our Services</h2>
+      <div class="decoration__container bd-grid">
           <div class="decoration__data">
-   
-              <a href="../original/Application Dev.html">           <img src="assets/img/app dev.png" alt="" class="decoration__img"></a>
-              <h3 class="decoration__title">IOS and Android app dev</h3>
+              
+              <a href="../original/WebDevelopment.php"><img src="assets/img/send1.png"  class="decoration__img" ></a>
+              <h3 class="decoration__title">Web Development</h3>
+             
+          </div>
+
+          <div class="decoration__data">
+       
+            <a href="../original/hosting.php">     <img src="assets/img/host.png"  alt="" class="decoration__img"></a>
+            <h3 class="decoration__title">
+              Hosting & Domain Registration</h3>
           
-          </div>
-
-  
-          <div class="decoration__data">
-           
-            <a href="../original/Design.html"> <img src="assets/img/pngegg (19).png" alt="" class="decoration__img"></a>
-            <h3 class="decoration__title">
-              Graphics  & Design</h3>
-            
         </div>
-         
-        
-          <div class="decoration__data">
 
-              <a href="../original/Computer Services.html">              <img src="assets/img/coputer.png" alt="" class="decoration__img"></a>
-              <h3 class="decoration__title">  
-                Computer Services</h3>
-            
-          </div>
+
           <div class="decoration__data">
-           
-            <a href="../original/Satellite installation & E paymentsh3.html"> <img src="assets/img/pngegg (24).png" alt="" class="decoration__img"></a>
-            <h3 class="decoration__title">
-              Satellite installation & E payments </h3>
-            
-        </div>
-         
+              <img src="assets/img/search.png" alt="" class="decoration__img">
+              <a href="../original/Search Opt.php"><h3 class="decoration__title"> search Engine optimization </h3></a>
+             
+          </div>
       </div>
-    </section>
-            
-          <!--========== END OUR SERVICES ==========-->
+        <br>
+      <div class="decoration__container bd-grid">
+        <div class="decoration__data">
+ 
+            <a href="../original/Application Dev.php">           <img src="assets/img/app dev.png" alt="" class="decoration__img"></a>
+            <h3 class="decoration__title">IOS and Android app dev</h3>
+        
+        </div>
+
+
+        <div class="decoration__data">
+         
+          <a href="../original/Design.php"> <img src="assets/img/pngegg (19).png" alt="" class="decoration__img"></a>
+          <h3 class="decoration__title">
+            Graphics  & Design</h3>
+          
+      </div>
+       
+      
+        <div class="decoration__data">
+
+            <a href="../original/Computer Services.php">              <img src="assets/img/coputer.png" alt="" class="decoration__img"></a>
+            <h3 class="decoration__title">  
+              Computer Services</h3>
+          
+        </div>
+        <div class="decoration__data">
+         
+          <a href="../original/Satellite installation & E paymentsh3.php"> <img src="assets/img/pngegg (24).png" alt="" class="decoration__img"></a>
+          <h3 class="decoration__title">
+            Satellite installation & E payments </h3>
+          
+      </div>
+       
+    </div>
+  </section>
+          
+        <!--========== END OUR SERVICES ==========-->
 
 
         <!--========== FOOTER ==========-->
@@ -179,19 +181,19 @@
               <div class="footer__content">
                   <h3 class="footer__title">Computer Services</h3>
                   <ul>
-                      <li><a href="Services.html" class="footer__link">Hardware Repares </a></li>
-                      <li><a href="Services.html" class="footer__link">Computer Sales</a></li>
-                      <li><a href="Services.html" class="footer__link">Desktop Support</a></li>
+                      <li><a href="Computer Services.php" class="footer__link">Hardware Repares </a></li>
+                      <li><a href="iwad Store.php" class="footer__link">Computer Sales</a></li>
+                      <li><a href="Computer Services.php" class="footer__link">Desktop Support</a></li>
                   </ul>
               </div>
 
               <div class="footer__content">
                   <h3 class="footer__title">S E O</h3>
                   <ul>
-                      <li><a href="Services.html" class="footer__link">Google Ads</a></li>
-                      <li><a href="Services.html" class="footer__link">Google ranking</a></li>
-                      <li><a href="Services.html" class="footer__link">Youtube Ads</a></li>
-                      <li><a href="Services.html" class="footer__link">Facebook Ads</a></li>
+                      <li><a href="Search Opt.php" class="footer__link">Google Ads</a></li>
+                      <li><a href="Search Opt.php" class="footer__link">Google ranking</a></li>
+                      <li><a href="Search Opt.php" class="footer__link">Youtube Ads</a></li>
+                      <li><a href="Search Opt.php" class="footer__link">Facebook Ads</a></li>
                   </ul>
               </div>
 
@@ -201,15 +203,15 @@
                   <a href="#" class="footer__social"><i class='bx bxl-twitter'></i></a>
                   <a href="#" class="footer__social"><i class='bx bxl-instagram-alt'></i></a>
                   <ul>
-                    <li><img class="contact_icon"; src="assets/img/placeholder.png" alt="icon"><a href="https://maps.app.goo.gl/DKGBg4174ws2CJ4a8" class="footer__link">. Zengeza 4, Chitungwiza</a></li>
-                    <li><img class="contact_icon"; src="assets/img/gmail.png" alt="icon"><a href="mailto:info@iwad.net" class="footer__link">. sales@iwad.net</a></li>
-                    <li><img class="contact_icon"; src="assets/img/telephone.png" alt="icon"><a href="tel:+263775051445" class="footer__link">. +263 775 051 445</a></li>
+                    <li><img class="contact_icon"; src="assets/img/placeholder.png" alt="icon"><a href="https://maps.app.goo.gl/DKGBg4174ws2CJ4a8" class="footer__link"> 17003 Nehanda Rd Zengeza 4, Chitungwiza</a></li>
+                    <li><img class="contact_icon"; src="assets/img/gmail.png" alt="icon"><a href="mailto:info@iwad.net" class="footer__link"> info@iwad.net</a></li>
+                    <li><img class="contact_icon"; src="assets/img/telephone.png" alt="icon"><a href="tel:+263775051445" class="footer__link"> +263 719 051 445</a></li>
                   </ul>
               </div>
           </div>
 
-            <p class="footer__copy"> ©2021 iWAD.Net All right reserved</p>
-        </footer>
+          <p class="footer__copy"> 2021 Iwad.Net All right reserved</p>
+      </footer>
 
         <!--========== SCROLL REVEAL ==========-->
         <script src="https://unpkg.com/scrollreveal"></script>
