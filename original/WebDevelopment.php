@@ -38,20 +38,18 @@
         <!--========== HEADER ==========-->
         <header class="l-header" id="header">
             <nav class="nav bd-container">
-                <a href="Contacts.html" class="nav__logo"><img src="assets/img/home.png"></a>
+                <a href="About us.php" class="nav__item"><img src="assets/img/home.png"height="40px"width="143px"></a>                
+            
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list">
-                        
-                        <li class="nav__item"><a href="home.html" class="nav__link">Home</a></li>
-                        <li class="nav__item"><a href="Services.html" class="nav__link">Services</a></li>
-                        <li class="nav__item"><a href="About us.html" class="nav__link">About Us</a></li>
-                        <li class="nav__item"><a href="iwad Store.html" class="nav__link">iWAD Store</a></li>
-                        <li class="nav__item"><a href="Contacts.html" class="nav__link">Contact Us</a></li>
+                        <li class="nav__item"><a href="home.php" class="nav__link">Home</a></li>
+                        <li class="nav__item"><a href="Services.php" class="nav__link">Services</a></li>
+                        <li class="nav__item"><a href="About us.php" class="nav__link active-link">About Us</a></li>
+                        <li class="nav__item"><a href="iwad Store.php" class="nav__link">Iwad Store</a></li>
+                        <li class="nav__item"><a href="Contacts.php" class="nav__link">Contact Us</a></li>
    
-                        <li class="nav__item"><a href="Iwad Responsive-sign up-Form-master/index.html" class="nav__links">Sign Up</a></li>
-                    
+                        <li class="nav__item"><a href="signup.php" class="nav__links">Sign Up</a></li>
                         <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
-
                     </ul>
                 </div>
 
@@ -60,7 +58,7 @@
                 </div>
             </nav>
         </header>
-
+        
                
             <!--========== SHARE ==========-->
             <section class="share section bd-container" id="share">

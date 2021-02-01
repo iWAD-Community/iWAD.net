@@ -47,7 +47,7 @@
                         <li class="nav__item"><a href="iwad Store.php" class="nav__link">iWAD Store</a></li>
                         <li class="nav__item"><a href="Contacts.php" class="nav__link">Contact Us</a></li>
    
-                        <li class="nav__item"><a href="Iwad Responsive-sign up-Form-master/index.html" class="nav__links">Sign Up</a></li>
+                        <li class="nav__item"><a href="signup.php" class="nav__links">Sign Up</a></li>
                     
 
                         <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
