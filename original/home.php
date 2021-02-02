@@ -255,7 +255,7 @@
             <!-- single item -->
             <div class = "single-about overlay">
               <span><i class = "fas fa-magic"></i></span>
-              <h2 class = "text-large">awesome features</h2>
+              <h2 class = "text-large">awesome features </h2>
               <p class = "text-light">From animations, cool themes, awesome Gifs and color complementary elements; iWAD offers you one of the greatest, if not the greatest, visual treaties to your system; adding a creative and modern look to your business or project.</p>
               <!-- <a href = "#" class = "btn-link">read more</a>-->
             </div>
