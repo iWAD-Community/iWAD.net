@@ -13,22 +13,21 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!--========== BOX ICONS ==========-->
-
         <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
 
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
-        <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-   <!-- Custom CSS -->
-   <link rel = "stylesheet" href="assets/css/main.css">
-   <!-- Google fonts -->
-   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Varela+Round&display=swap" rel="stylesheet">
-   <!-- Font awesome -->
-   <script src="https://kit.fontawesome.com/dbed6b6114.js" crossorigin="anonymous"></script>
-   <!-- Owl carousel -->
-   <link rel = "stylesheet" href = "OwlCarousel2-2.3.4/dist/assets/owl.carousel.css">
-   <link rel = "stylesheet" href = "OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css">
+        <!-- Custom CSS -->
+        <link rel = "stylesheet" href="assets/css/main.css">
+        <!-- Google fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Varela+Round&display=swap" rel="stylesheet">
+        <!-- Font awesome -->
+        <script src="https://kit.fontawesome.com/dbed6b6114.js" crossorigin="anonymous"></script>
+        <!-- Owl carousel -->
+        <link rel = "stylesheet" href = "OwlCarousel2-2.3.4/dist/assets/owl.carousel.css">
+        <link rel = "stylesheet" href = "OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css">
         
+        <title>Responsive landing page</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -38,28 +37,28 @@
         
         <!--========== HEADER ==========-->
         <header class="l-header" id="header">
-          <nav class="nav bd-container">
-              <a href="Contacts.php" class="nav__item"><img src="assets/img/home.png"height="40px"width="143px"></a>                
-          
-              <div class="nav__menu" id="nav-menu">
-                  <ul class="nav__list">
-                      <li class="nav__item"><a href="home.php" class="nav__link active-link">Home</a></li>
-                      <li class="nav__item"><a href="Services.php" class="nav__link">Services</a></li>
-                      <li class="nav__item"><a href="About us.php" class="nav__link">About Us</a></li>
-                      <li class="nav__item"><a href="iwad Store.php" class="nav__link">Iwad Store</a></li>
-                      <li class="nav__item"><a href="Contacts.php" class="nav__link">Contact Us</a></li>
-                      <li class="nav__item"><a href="signup.php" class="nav__links">Sign Up</a></li>
-                      <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
-                  </ul>
-              </div>
+            <nav class="nav bd-container">
+                <a href="Services.php" class="nav__logo"><img src="assets/img/home.png"></a>
+                <div class="nav__menu" id="nav-menu">
+                    <ul class="nav__list">
+                        <li class="nav__item"><a href="home.php" class="nav__link">Home</a></li>
+                        <li class="nav__item"><a href="Services.php" class="nav__link active-link">Services</a></li>
+                        <li class="nav__item"><a href="About us.php" class="nav__link">About Us</a></li>
+                        <li class="nav__item"><a href="iwad Store.php" class="nav__link">iWAD Store</a></li>
+                        <li class="nav__item"><a href="Contacts.php" class="nav__link">Contact Us</a></li>
+   
+                        <li class="nav__item"><a href="signup.php" class="nav__links">Sign Up</a></li>
+                    
 
-              <div class="nav__toggle" id="nav-toggle">
-                  <i class='bx bx-grid-alt'></i>
-              </div>
-          </nav>
-      </header>
+                        <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
+                    </ul>
+                </div>
 
-        
+                <div class="nav__toggle" id="nav-toggle">
+                    <i class='bx bx-grid-alt'></i>
+                </div>
+            </nav>
+        </header>
 
         <!--========== START OF SLIDER ==========-->
 
