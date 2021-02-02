@@ -18,8 +18,9 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <!-- Custom CSS -->
-    
+        <link rel = "stylesheet" href="assets/css/main.css">
        
+
 
         <title>Responsive landing page</title>
     </head>
