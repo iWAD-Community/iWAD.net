@@ -19,14 +19,11 @@
         <link rel="stylesheet" href="assets/css/styles.css">
         <!-- Custom CSS -->
         <link rel = "stylesheet" href="assets/css/main.css">
-        <!-- Google fonts -->
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Varela+Round&display=swap" rel="stylesheet">
+       
         <!-- Font awesome -->
         <script src="https://kit.fontawesome.com/dbed6b6114.js" crossorigin="anonymous"></script>
         <!-- Owl carousel -->
-        <link rel = "stylesheet" href = "OwlCarousel2-2.3.4/dist/assets/owl.carousel.css">
-        <link rel = "stylesheet" href = "OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css">
-        
+
         <title>Responsive landing page</title>
     </head>
     <body>
