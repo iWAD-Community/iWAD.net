@@ -43,12 +43,11 @@
           
               <div class="nav__menu" id="nav-menu">
                   <ul class="nav__list">
-                      <li class="nav__item"><a href="home.php" class="nav__link">Home</a></li>
+                      <li class="nav__item"><a href="home.php" class="nav__link active-link">Home</a></li>
                       <li class="nav__item"><a href="Services.php" class="nav__link">Services</a></li>
-                      <li class="nav__item"><a href="About us.php" class="nav__link active-link">About Us</a></li>
+                      <li class="nav__item"><a href="About us.php" class="nav__link">About Us</a></li>
                       <li class="nav__item"><a href="iwad Store.php" class="nav__link">Iwad Store</a></li>
                       <li class="nav__item"><a href="Contacts.php" class="nav__link">Contact Us</a></li>
- 
                       <li class="nav__item"><a href="signup.php" class="nav__links">Sign Up</a></li>
                       <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
                   </ul>
@@ -155,12 +154,7 @@
             <div class="text">App Development</div>
           </div>
           
-          <div class="mySlides fade">
-            <div class="numbertext">3 / 3</div>
-            <img src="assets/img/digital.jpg" style="width:100%">
-            <div class="text">DIGITAL MARKETING</div>
-          </div>
-          
+         
           </div>
           <br>
           
@@ -168,7 +162,7 @@
             <span class="dot"></span> 
             <span class="dot"></span> 
             <span class="dot"></span> 
-            <span class="dot"></span> 
+          
           </div>
           
           <script>
