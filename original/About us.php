@@ -22,9 +22,6 @@
         <link rel = "stylesheet" href="assets/css/main.css">
         <!-- Google fonts -->
  
-        <!-- Font awesome -->
-
-        <!-- Owl carousel -->
      
              
 
