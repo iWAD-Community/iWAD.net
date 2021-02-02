@@ -154,7 +154,12 @@
             <div class="text">App Development</div>
           </div>
           
-         
+          <div class="mySlides fade">
+            <div class="numbertext">3 / 3</div>
+            <img src="assets/img/digital.jpg" style="width:100%">
+            <div class="text">DIGITAL MARKETING</div>
+          </div>
+          
           </div>
           <br>
           
@@ -162,7 +167,7 @@
             <span class="dot"></span> 
             <span class="dot"></span> 
             <span class="dot"></span> 
-          
+            <span class="dot"></span> 
           </div>
           
           <script>
