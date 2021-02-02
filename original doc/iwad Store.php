@@ -369,7 +369,7 @@
       <!-- item -->
       <div class = "blog-item">
         <div class = "blog-item-img">
-          <img src = "assets/./img/feat-img-1.jpg" alt = "blog image">
+          <img src = "assets/./img/pngegg (20).png" alt = "blog image">
         </div>
         <div class = "blog-item-content">
           <a href = "#">   commodi asperiores eum repellat autem voluptatibus, maxime voluptate?</a>
@@ -382,7 +382,7 @@
       <!-- item -->
       <div class = "blog-item">
         <div class = "blog-item-img">
-          <img src = "assets/./img/feat-img-2.jpg" alt = "blog image">
+          <img src = "assets/./img/pngegg (20).png" alt = "blog image">
         </div>
         <div class = "blog-item-content">
           <a href = "#">  voluptates praesentium ducimus omnis..</a>
@@ -395,7 +395,7 @@
       <!-- item -->
       <div class = "blog-item">
         <div class = "blog-item-img">
-          <img src = "assets/./img/feat-img-5.jpg" alt = "blog image">
+          <img src = "assets/img/pngegg (20).png" alt = "blog image">
         </div>
         <div class = "blog-item-content">
           <a href = "#">computer </a>

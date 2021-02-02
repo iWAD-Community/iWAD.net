@@ -1,0 +1,80 @@
+:root{
+    --malibu: #6195ff;
+    --black-russian: #1c1d21;
+    --snow: #fafafa;
+    --lava: #808588;
+    --light-gray: #eee;
+}
+
+
+/* Utility classes and stylings */
+a{
+    color: black;
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0.8rem 0;
+}
+button{
+    outline: 0;
+    font-family: inherit;
+}
+.container{
+    width: 94vw;
+    margin: 0 auto;
+}
+
+
+/* contact */
+.contact-info{
+    padding: 0.5rem;
+}
+.single-contact{
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+}
+.single-contact span{
+    font-size: 2rem;
+    color: var(--malibu);
+}
+input[type = "text"], textarea{
+    width: 100%;
+    font-size: 0.95rem;
+    font-family: inherit;
+    font-weight: 500;
+    padding: 0.7rem;
+    border: none;
+    background: #fafafa;
+    margin: 0.6rem 0;
+    border-radius: 3px;
+}
+input[type = "text"]::placeholder{
+    color: var(--lava);
+    opacity: 0.6;
+}
+textarea::placeholder{
+    color: var(--lava);
+    opacity: 0.6;
+}
+.form-group{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+}
+.btn-form{
+    background: var(--malibu);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 0.8rem 2rem;
+    font-size: 1rem;
+    font-weight: 400;
+    border-radius: 3px;
+    cursor: pointer;
+    display: block;
+    margin: 1.5rem auto;
+}
+

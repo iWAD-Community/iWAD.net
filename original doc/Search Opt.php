@@ -13,39 +13,30 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!--========== BOX ICONS ==========-->
-        <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+        <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
 
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
-
-           <!-- Custom CSS -->
-  
-   <!-- Google fonts -->
-   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Varela+Round&display=swap" rel="stylesheet">
-   <!-- Font awesome -->
-   <script src="https://kit.fontawesome.com/dbed6b6114.js" crossorigin="anonymous"></script>
-   <!-- Owl carousel -->
-   <link rel = "stylesheet" href = "OwlCarousel2-2.3.4/dist/assets/owl.carousel.css">
-   <link rel = "stylesheet" href = "OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css">
-        
+        <link rel="stylesheet" href="./assets/css/iwad store ani.css">
+        <title>Responsive landing page</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
         <a href="#" class="scrolltop" id="scroll-top">
             <i class='bx bx-up-arrow-alt scrolltop__icon'></i>
         </a>
-       
+        
         <!--========== HEADER ==========-->
         <header class="l-header" id="header">
           <nav class="nav bd-container">
-              <a href="Contacts.php" class="nav__item"><img src="assets/img/home.png"height="40px"width="143px"></a>                
+              <a href="iwad Store.php" class="nav__item"><img src="assets/img/home.png"height="40px"width="143px"></a>                
           
               <div class="nav__menu" id="nav-menu">
                   <ul class="nav__list">
                       <li class="nav__item"><a href="home.php" class="nav__link">Home</a></li>
-                      <li class="nav__item"><a href="Services.php" class="nav__link">Services</a></li>
-                      <li class="nav__item"><a href="About us.php" class="nav__link active-link">About Us</a></li>
-                      <li class="nav__item"><a href="iwad Store.php" class="nav__link">Iwad Store</a></li>
+                      <li class="nav__item"><a href="Services.php" class="nav__link ">Services</a></li>
+                      <li class="nav__item"><a href="About us.php" class="nav__link">About Us</a></li>
+                      <li class="nav__item"><a href="iwad Store.php" class="nav__link">iWAD Store</a></li>
                       <li class="nav__item"><a href="Contacts.php" class="nav__link">Contact Us</a></li>
  
                       <li class="nav__item"><a href="signup.php" class="nav__links">Sign Up</a></li>
@@ -58,27 +49,27 @@
               </div>
           </nav>
       </header>
+          
 
-               
-            <!--========== SHARE ==========-->
-            <section class="share section bd-container" id="share">
-              <div class="share__container bd-grid">
-                  <div class="share__data">
-                      <h2 class="section-title-center">|  Search Engine optimization|  </h2>
-                      <p class="share__description"><h4>What Is SEO / Search Engine Optimization?</h4>
-                        Here at iWAD can provide u SEO Services bt first let us explain what it is all about,  SEO stands for “search engine optimization.” In simple terms, it means the process of improving your site to increase its visibility for relevant searches. The better visibility your pages have in search results, the more likely you are to garner attention and attract prospective and existing customers to your business.
-                    </p>
-
-                  </div>
-                  <div class="share__img">
-                      <img src="assets/img/search.png" alt="">
-                  </div>
-              </div>
-          </section>
-          <!--========== Start OUR SERVICES ==========-->
-  <!--========== SHARE ==========-->
-  <section class="share section bd-container" id="share">
   
+           <!-- welcome section -->
+           <div class = "head-body container">
+                <div class = "head-body-content">
+                <h2 class="section-title-center">|  Search Engine optimization|   </h2>
+                 
+                <h4>What Is SEO / Search Engine Optimization?</h4>
+                        Here at iWAD can provide u SEO Services bt first let us explain what it is all about,  SEO stands for “search engine optimization.” In simple terms, it means the process of improving your site to increase its visibility for relevant searches. The better visibility your pages have in search results, the more likely you are to garner attention and attract prospective and existing customers to your business.
+                  
+                  </p>
+                 
+                </div>
+          
+                <div class = "head-body-img">
+                  <img src = "./assets/img/search.png" alt = "header image">
+                </div>
+                  
+
+             
         <div class="share__data">
             <h2 class="section-title-center"> |  How does SEO work?| </h2>
             <p class="share__description">Search engines such as Google and Bing use bots to crawl pages on the web, going from site to site, collecting information about those pages and putting them in an index. Next, algorithms analyze pages in the index, taking into account hundreds of ranking factors or signals, to determine the order pages should appear in the search results for a given query.
@@ -97,77 +88,104 @@ However, the search results have been evolving over the past few years to give u
 Also note, features like rich results and Knowledge Panels in the search results can increase visibility and provide users more information about your company directly in the results.
  
 
+      
+      
+    </div>
+
           </p>
       
       
     </div>
+              </div>
+
 </section>
-     <!--========== Start OUR SERVICES ==========-->
+       <!--========== Start OUR SERVICES ==========-->
 
-     <section class="decoration section bd-container" id="decoration">
-      <h2 class="section-title"> <br>Our Services</h2>
-      <div class="decoration__container bd-grid">
-          <div class="decoration__data">
-              
-              <a href="../original/WebDevelopment.php"><img src="assets/img/send1.png"  class="decoration__img" ></a>
-              <h3 class="decoration__title">Web Development</h3>
-             
+  <section class="decoration section bd-container" id="decoration">
+        <h2 class="section-title"> <br>Our Services</h2>
+        <div class="decoration__container bd-grid">
+            <div class="decoration__data">
+                
+                <a href="../original doc/WebDevelopment.php"><img src="assets/img/send1.png"  class="decoration__img" ></a>
+                <h3 class="decoration__title">Web Development</h3>
+               
+            </div>
+  
+            <div class="decoration__data">
+         
+              <a href="../original doc/hosting.php">     <img src="assets/img/host.png"  alt="" class="decoration__img"></a>
+              <h3 class="decoration__title">
+                Hosting & Domain Registration</h3>
+            
           </div>
-
-          <div class="decoration__data">
-       
-            <a href="../original/hosting.php">     <img src="assets/img/host.png"  alt="" class="decoration__img"></a>
-            <h3 class="decoration__title">
-              Hosting & Domain Registration</h3>
-          
-        </div>
-
-
-          <div class="decoration__data">
-              <img src="assets/img/search.png" alt="" class="decoration__img">
-              <a href="../original/Search Opt.php"><h3 class="decoration__title"> search Engine optimization </h3></a>
-             
-          </div>
-      </div>
-        <br>
-      <div class="decoration__container bd-grid">
-        <div class="decoration__data">
- 
-            <a href="../original/Application Dev.php">           <img src="assets/img/app dev.png" alt="" class="decoration__img"></a>
-            <h3 class="decoration__title">IOS and Android app dev</h3>
+  
+  
         
+          <div class="decoration__data">
+
+              <a href="../original doc/Search Opt.php">    <img src="assets/img/search.png" alt="" class="decoration__img"></a>          <h3 class="decoration__title"> search Engine optimization </h3>
+             
+          </div>
         </div>
-
-
-        <div class="decoration__data">
-         
-          <a href="../original/Design.php"> <img src="assets/img/pngegg (19).png" alt="" class="decoration__img"></a>
-          <h3 class="decoration__title">
-            Graphics  & Design</h3>
+          <br>
+        <div class="decoration__container bd-grid">
+          <div class="decoration__data">
+   
+              <a href="../original doc/Application Dev.php">           <img src="assets/img/app dev.png" alt="" class="decoration__img"></a>
+              <h3 class="decoration__title">IOS and Android app dev</h3>
           
-      </div>
-       
-      
-        <div class="decoration__data">
-
-            <a href="../original/Computer Services.php">              <img src="assets/img/coputer.png" alt="" class="decoration__img"></a>
-            <h3 class="decoration__title">  
-              Computer Services</h3>
-          
+          </div>
+  
+  
+          <div class="decoration__data">
+           
+            <a href="../original doc/Design.php"> <img src="assets/img/pngegg (19).png" alt="" class="decoration__img"></a>
+            <h3 class="decoration__title">
+              Graphics  & Design</h3>
+            
         </div>
-        <div class="decoration__data">
          
-          <a href="../original/Satellite installation & E paymentsh3.php"> <img src="assets/img/pngegg (24).png" alt="" class="decoration__img"></a>
-          <h3 class="decoration__title">
-            Satellite installation & E payments </h3>
-          
+        
+          <div class="decoration__data">
+  
+              <a href="../original doc/Computer Services.php">              <img src="assets/img/coputer.png" alt="" class="decoration__img"></a>
+              <h3 class="decoration__title">  
+                Computer Services</h3>
+            
+          </div>
+          <div class="decoration__data">
+           
+            <a href="../original doc/Satellite installation & E paymentsh3.php"> <img src="assets/img/pngegg (24).png" alt="" class="decoration__img"></a>
+            <h3 class="decoration__title">
+              Satellite installation & E payments </h3>
+            
+        </div>
+         
       </div>
-       
-    </div>
-  </section>
-          
+    </section>
         <!--========== END OUR SERVICES ==========-->
+    <!--========== SEND Email==========-->
+    <section class="send section">
+        <div class="send__container bd-container bd-grid">
+            <div class="send__content">
+                <h2 class="section-title-center send__title">Send Email Now</h2>
+                <p class="send__description">Contact us today and Join the vast growing online Community of iWAD.net! We welcome your feedback on changes we make to iWAD.net and your products so please send us an email with any comments you may have.</p>
+                <form action="">
+                    <div class="send__direction">
+                        <input type="text" placeholder="Email address" class="send__input">
+                        <a href="#" class="button">Send</a>
+                    </div>
+                </form>
+            </div>
 
+            <div class="send__img">
+                <img src="assets/img/pngegg (5).png" alt="">
+            </div>
+        </div>
+    </se>
+</main>
+
+<!--========== SEND Email ==========-->
 
         <!--========== FOOTER ==========-->
         <footer class="footer section">
