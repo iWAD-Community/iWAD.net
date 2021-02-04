@@ -239,14 +239,14 @@
         <div class="decoration__container bd-grid">
             <div class="decoration__data">
                 
-                <a href="../original doc/WebDevelopment.php"><img src="assets/img/send1.png"  class="decoration__img" ></a>
+                <a href="../WebDevelopment.php"><img src="assets/img/send1.png"  class="decoration__img" ></a>
                 <h3 class="decoration__title">Web Development</h3>
                
             </div>
   
             <div class="decoration__data">
          
-              <a href="../original doc/hosting.php">     <img src="assets/img/host.png"  alt="" class="decoration__img"></a>
+              <a href="../hosting.php">     <img src="assets/img/host.png"  alt="" class="decoration__img"></a>
               <h3 class="decoration__title">
                 Hosting & Domain Registration</h3>
             
@@ -256,7 +256,7 @@
         
           <div class="decoration__data">
 
-              <a href="../original doc/Search Opt.php">    <img src="assets/img/search.png" alt="" class="decoration__img"></a>          <h3 class="decoration__title"> search Engine optimization </h3>
+              <a href="../Search Opt.php">    <img src="assets/img/search.png" alt="" class="decoration__img"></a>          <h3 class="decoration__title"> search Engine optimization </h3>
              
           </div>
         </div>
@@ -264,7 +264,7 @@
         <div class="decoration__container bd-grid">
           <div class="decoration__data">
    
-              <a href="../original doc/Application Dev.php">           <img src="assets/img/app dev.png" alt="" class="decoration__img"></a>
+              <a href="../Application Dev.php">           <img src="assets/img/app dev.png" alt="" class="decoration__img"></a>
               <h3 class="decoration__title">IOS and Android app dev</h3>
           
           </div>
@@ -272,7 +272,7 @@
   
           <div class="decoration__data">
            
-            <a href="../original doc/Design.php"> <img src="assets/img/pngegg (19).png" alt="" class="decoration__img"></a>
+            <a href="../Design.php"> <img src="assets/img/pngegg (19).png" alt="" class="decoration__img"></a>
             <h3 class="decoration__title">
               Graphics  & Design</h3>
             
@@ -281,14 +281,14 @@
         
           <div class="decoration__data">
   
-              <a href="../original doc/Computer Services.php">              <img src="assets/img/coputer.png" alt="" class="decoration__img"></a>
+              <a href="../Computer Services.php">              <img src="assets/img/coputer.png" alt="" class="decoration__img"></a>
               <h3 class="decoration__title">  
                 Computer Services</h3>
             
           </div>
           <div class="decoration__data">
            
-            <a href="../original doc/Satellite installation & E paymentsh3.php"> <img src="assets/img/pngegg (24).png" alt="" class="decoration__img"></a>
+            <a href="../Satellite installation & E paymentsh3.php"> <img src="assets/img/pngegg (24).png" alt="" class="decoration__img"></a>
             <h3 class="decoration__title">
               Satellite installation & E payments </h3>
             

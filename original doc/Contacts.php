@@ -98,7 +98,7 @@ You can contact us via email or by calling one of the numbers below.</p>
               <i class = "fas fa-phone"></i>
             </span>
             <h2 class = "text-large">Phone</h2>
-            <p class = "text-light">512-421-3940</p>
+            <p class = "text-light">+263 719 051 445</p>
           </div>
           <!-- end of single item -->
           <!-- single item -->
@@ -107,7 +107,7 @@ You can contact us via email or by calling one of the numbers below.</p>
               <i class = "fas fa-envelope"></i>
             </span>
             <h2 class = "text-large">Email</h2>
-            <p class = "text-light">email@support.com</p>
+            <p class = "text-light">info@iwad.net</p>
           </div>
           <!-- end of single item -->
           <!-- single item -->
@@ -116,7 +116,7 @@ You can contact us via email or by calling one of the numbers below.</p>
               <i class = "fas fa-map-marker-alt"></i>
             </span>
             <h2 class = "text-large">Location</h2>
-            <p class = "text-light">Belvedere Harare</p>
+            <p class = "text-light">Chitungwiza</p>
           </div>
           <!-- end of single item -->
         </div>
