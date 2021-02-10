@@ -71,121 +71,28 @@
 
 </section>
          <!-- trending product -->
-    <section class = "trend">
-        <div class = "container">
-          <div class = "title">
-            <h4>trending now</h4>
-            <h2>best selling product</h2>
-          </div>
-  
-          <div class = "trend-grid">
-            <!-- item -->
-            <div class = "trend-item">
-              <img src = "assets/./img/accessory2.png" alt = "best product">
-              <div class = "trend-item-content">
-                <h4>Brown  Tz</h4>
-                <h4>$00.00</h4>
-                <div class = "stars">
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "far fa-star"></i></span>
-                </div>
-                
-              </div>
-            </div>
-            <!-- end of item -->
-             <!-- item -->
-             <div class = "trend-item">
-                <img src = "assets/./img/decoration1.png" alt = "best product">
-                <div class = "trend-item-content">
-                  <h4>lorem</h4>
-                  <h4>$00.00</h4>
-                  <div class = "stars">
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "far fa-star"></i></span>
-                  </div>
-                
-                </div>
-              </div>
-              <!-- end of item -->
-                 <!-- item -->
-                 <div class = "trend-item">
-                  <img src = "assets/./img/accessory1.png" alt = "best product">
-                  <div class = "trend-item-content">
-                    <h4>lorem</h4>
-                    <h4>$00.00</h4>
-                    <div class = "stars">
-                      <span><i class = "fas fa-star"></i></span>
-                      <span><i class = "fas fa-star"></i></span>
-                      <span><i class = "fas fa-star"></i></span>
-                      <span><i class = "fas fa-star"></i></span>
-                      <span><i class = "far fa-star"></i></span>
+         <section class="decoration section bd-container" id="decoration">
+                <h2 class="section-title">Computers <br> For more go to page  Home</h2>
+                <div class="decoration__container bd-grid">
+                    <div class="decoration__data">
+                        <img src="assets/img/decoration1.png" alt="" class="decoration__img">
+                        <h3 class="decoration__title">lorem</h3>
+                 
                     </div>
-                 
-                  </div>
+
+                    <div class="decoration__data">
+                        <img src="assets/img/decoration2.png" alt="" class="decoration__img">
+                        <h3 class="decoration__title">lorem</h3>
+                        
+                    </div>
+
+                    <div class="decoration__data">
+                        <img src="assets/img/decoration3.png" alt="" class="decoration__img">
+                        <h3 class="decoration__title">lorem</h3>
+                
+                    </div>
                 </div>
-                <!-- end of item -->
-            <!-- item -->
-            <div class = "trend-item">
-              <img src = "assets/./img/accessory1.png" alt = "best product">
-              <div class = "trend-item-content">
-                <h4>lorem</h4>
-                <h4>$00.00</h4>
-                <div class = "stars">
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "far fa-star"></i></span>
-                </div>
-             
-              </div>
-            </div>
-            <!-- end of item -->
-              <!-- item -->
-              <div class = "trend-item">
-                <img src = "assets/./img/decoration1.png" alt = "best product">
-                <div class = "trend-item-content">
-                  <h4>lorem</h4>
-                  <h4>$00.00</h4>
-                  <div class = "stars">
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "far fa-star"></i></span>
-                  </div>
-                 
-                </div>
-              </div>
-              <!-- end of item -->
-            <!-- item -->
-            <div class = "trend-item">
-              <img src = "assets/./img/accessory1.png" alt = "best product">
-              <div class = "trend-item-content">
-                <h4>lorem</h4>
-                <h4>$00.00</h4>
-                <div class = "stars">
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "far fa-star"></i></span>
-                </div>
-               
-              </div>
-            </div>
-            <!-- end of item -->
-          </div>
-        </div>
-      </section>
-      <!-- end of trending product -->
-        
+            </section>
             <!--========== DECORATION ==========-->
             <section class="decoration section bd-container" id="decoration">
                 <h2 class="section-title">Iwad merchandise <br> For Your Home</h2>
