@@ -98,8 +98,9 @@
                 <h2 class="section-title">iWAD Mobiles Devices  <br> <h4>IOS & Android </h4></h2>
                 <div class="decoration__container bd-grid">
                     <div class="decoration__data">
-                        <img src="assets/img/decoration1.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title"> <link rel="stylesheet" href="../original doc/iwad Store - Moblies.php">More></h3>
+                    <a href="/original doc/iwad Store - Moblies.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
+                    <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More></h3> </a>
+        
                  <link rel="stylesheet" href="../original doc/iwad Store - Moblies.php">
                     </div>
 
