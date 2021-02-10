@@ -72,7 +72,7 @@
 </section>
          <!-- trending product -->
          <section class="decoration section bd-container" id="decoration">
-                <h2 class="section-title">Computers <br> For more go to page  Home</h2>
+                <h2 class="section-title"> iWAD Computers <br> <h4>For all you Computation needs Mac and PC</h4> Home</h2>
                 <div class="decoration__container bd-grid">
                     <div class="decoration__data">
                         <img src="assets/img/decoration1.png" alt="" class="decoration__img">
@@ -95,7 +95,7 @@
             </section>
             <!--========== DECORATION ==========-->
             <section class="decoration section bd-container" id="decoration">
-                <h2 class="section-title">Iwad merchandise <br> For Your Home</h2>
+                <h2 class="section-title">iWAD Mobiles Devices  <br> <h4>IOS & Android </h4></h2>
                 <div class="decoration__container bd-grid">
                     <div class="decoration__data">
                         <img src="assets/img/decoration1.png" alt="" class="decoration__img">
