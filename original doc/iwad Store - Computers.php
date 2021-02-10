@@ -53,7 +53,7 @@
                <div class = "head-body container">
                 <div class = "head-body-content">
                   <h1 class = "head-title">
-                    welcome to iwad store Beta Version
+                    welcome to iwad Store - Computers
                   </h1>
                   <p class = "text">
                   Still under Construction adipisicing elit. Veniam nam repudiandae aliquam ullam nulla sunt voluptate dolorem cumque sed corporis, debitis iste odit necessitatibus repellat!
@@ -71,200 +71,29 @@
 
 </section>
          <!-- trending product -->
-    <section class = "trend">
-        <div class = "container">
-          <div class = "title">
-            <h4>trending now</h4>
-            <h2>best selling product</h2>
-          </div>
-  
-          <div class = "trend-grid">
-            <!-- item -->
-            <div class = "trend-item">
-              <img src = "assets/./img/accessory2.png" alt = "best product">
-              <div class = "trend-item-content">
-                <h4>Brown  Tz</h4>
-                <h4>$00.00</h4>
-                <div class = "stars">
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "far fa-star"></i></span>
-                </div>
-                
-              </div>
-            </div>
-            <!-- end of item -->
-             <!-- item -->
-             <div class = "trend-item">
-                <img src = "assets/./img/decoration1.png" alt = "best product">
-                <div class = "trend-item-content">
-                  <h4>lorem</h4>
-                  <h4>$00.00</h4>
-                  <div class = "stars">
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "far fa-star"></i></span>
-                  </div>
-                
-                </div>
-              </div>
-              <!-- end of item -->
-                 <!-- item -->
-                 <div class = "trend-item">
-                  <img src = "assets/./img/accessory1.png" alt = "best product">
-                  <div class = "trend-item-content">
-                    <h4>lorem</h4>
-                    <h4>$00.00</h4>
-                    <div class = "stars">
-                      <span><i class = "fas fa-star"></i></span>
-                      <span><i class = "fas fa-star"></i></span>
-                      <span><i class = "fas fa-star"></i></span>
-                      <span><i class = "fas fa-star"></i></span>
-                      <span><i class = "far fa-star"></i></span>
-                    </div>
-                 
-                  </div>
-                </div>
-                <!-- end of item -->
-            <!-- item -->
-            <div class = "trend-item">
-              <img src = "assets/./img/accessory1.png" alt = "best product">
-              <div class = "trend-item-content">
-                <h4>lorem</h4>
-                <h4>$00.00</h4>
-                <div class = "stars">
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "far fa-star"></i></span>
-                </div>
-             
-              </div>
-            </div>
-            <!-- end of item -->
-              <!-- item -->
-              <div class = "trend-item">
-                <img src = "assets/./img/decoration1.png" alt = "best product">
-                <div class = "trend-item-content">
-                  <h4>lorem</h4>
-                  <h4>$00.00</h4>
-                  <div class = "stars">
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "fas fa-star"></i></span>
-                    <span><i class = "far fa-star"></i></span>
-                  </div>
-                 
-                </div>
-              </div>
-              <!-- end of item -->
-            <!-- item -->
-            <div class = "trend-item">
-              <img src = "assets/./img/accessory1.png" alt = "best product">
-              <div class = "trend-item-content">
-                <h4>lorem</h4>
-                <h4>$00.00</h4>
-                <div class = "stars">
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "fas fa-star"></i></span>
-                  <span><i class = "far fa-star"></i></span>
-                </div>
-               
-              </div>
-            </div>
-            <!-- end of item -->
-          </div>
-        </div>
-      </section>
-      <!-- end of trending product -->
-        
-            <!--========== DECORATION ==========-->
-            <section class="decoration section bd-container" id="decoration">
-                <h2 class="section-title">Iwad merchandise <br> For Your Home</h2>
+         <section class="decoration section bd-container" id="decoration">
+                <h2 class="section-title"> iWAD Computers <br> <h4>For all your Computation needs Mac and PC</h4></h2>
                 <div class="decoration__container bd-grid">
                     <div class="decoration__data">
-                        <img src="assets/img/decoration1.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title">lorem</h3>
+                    <a href="/original doc/iwad Store - Computers.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
+                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More></h3> </a>
                  
                     </div>
 
                     <div class="decoration__data">
-                        <img src="assets/img/decoration2.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title">lorem</h3>
+                    <a href="/original doc/iwad Store - Computers.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
+                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More></h3> </a>
+                 
                         
                     </div>
 
                     <div class="decoration__data">
-                        <img src="assets/img/decoration3.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title">lorem</h3>
-                
+                    <a href="/original doc/iwad Store - Computers.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
+                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More></h3> </a>
+                 
                     </div>
                 </div>
             </section>
-  <!--========== ACCESSORIES ==========-->
-  <section class="accessory section bd-container" id="accessory">
-    <h2 class="section-title">New  <br> Accessories</h2>
-
-    <div class="accessory__container bd-grid">
-        <div class="accessory__content">
-            <img src="assets/img/accessory1.png" alt="" class="accessory__img">
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-        <div class="accessory__content">
-            <img src="assets/img/accessory2.png" alt="" class="accessory__img">
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-        <div class="accessory__content">
-            <img src="assets/img/accessory4.png" alt="" class="accessory__img">
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-        <div class="accessory__content">
-            <img src="assets/img/accessory3.png" alt="" class="accessory__img">
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$00.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-        <div class="accessory__content">
-            <img src="assets/img/accessory4.png" alt="" class="accessory__img">
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-
-        <div class="accessory__content">
-            <img src="assets/img/accessory5.png" alt="" class="accessory__img">
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-    </div>
-</section>
-
-<div class = "underline"></div>
 
 <!-- featured product -->
 <section class = "featured">
@@ -369,10 +198,13 @@
       <!-- item -->
       <div class = "blog-item">
         <div class = "blog-item-img">
-          <img src = "assets/./img/pngegg (20).png" alt = "blog image">
+        <a href="/original doc/iwad Store - Computers.php">                    <img src = "assets/./img/pngegg (20).png" alt = "blog image"> </a>
+      
         </div>
         <div class = "blog-item-content">
-          <a href = "#">   commodi asperiores eum repellat autem voluptatibus, maxime voluptate?</a>
+ 
+                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More On computers on Sale </h3> </a>
+                 
           <div>
             <span>Coming soon</span>
           </div>
@@ -382,10 +214,13 @@
       <!-- item -->
       <div class = "blog-item">
         <div class = "blog-item-img">
-          <img src = "assets/./img/pngegg (20).png" alt = "blog image">
+         
+        <a href="/original doc/iwad Store - Moblies.php">                          <img src = "assets/./img/pngegg (20).png" alt = "blog image"> </a>
+ 
         </div>
         <div class = "blog-item-content">
-          <a href = "#">  voluptates praesentium ducimus omnis..</a>
+          
+        <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More On Mobile  on Sale </h3> </a>
           <div>
             <span>Coming soon</span>
           </div>
@@ -395,10 +230,11 @@
       <!-- item -->
       <div class = "blog-item">
         <div class = "blog-item-img">
-          <img src = "assets/img/pngegg (20).png" alt = "blog image">
+        <a href="/original doc/iwad Store - Accesories.php">                         <img src = "assets/img/pngegg (20).png" alt = "blog image"> </a>
+
         </div>
         <div class = "blog-item-content">
-          <a href = "#">computer </a>
+        <a href="/original doc/iwad Store - Accesories.php">                 <h3 class="decoration__title"> More On Accesory  on Sale </h3> </a>
           <div>
             <span>Lorem ipsum dolor</span>
           </div>
@@ -409,6 +245,7 @@
   </div>
 </section>
 <!-- end of blog -->
+
 
     <!--========== SEND Email==========-->
     <section class="send section">

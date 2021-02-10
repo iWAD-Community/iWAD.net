@@ -75,21 +75,22 @@
                 <h2 class="section-title"> iWAD Computers <br> <h4>For all your Computation needs Mac and PC</h4></h2>
                 <div class="decoration__container bd-grid">
                     <div class="decoration__data">
-                        <img src="assets/img/decoration1.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title">lorem</h3>
+                    <a href="/original doc/iwad Store - Computers.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
+                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More></h3> </a>
                  
                     </div>
 
                     <div class="decoration__data">
-                        <img src="assets/img/decoration2.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title">lorem</h3>
+                    <a href="/original doc/iwad Store - Computers.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
+                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More></h3> </a>
+                 
                         
                     </div>
 
                     <div class="decoration__data">
-                        <img src="assets/img/decoration3.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title">lorem</h3>
-                
+                    <a href="/original doc/iwad Store - Computers.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
+                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More></h3> </a>
+                 
                     </div>
                 </div>
             </section>
@@ -101,19 +102,17 @@
                     <a href="/original doc/iwad Store - Moblies.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
                     <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More></h3> </a>
         
-                 <link rel="stylesheet" href="../original doc/iwad Store - Moblies.php">
                     </div>
 
                     <div class="decoration__data">
-                        <img src="assets/img/decoration2.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title">lorem</h3>
+                    <a href="/original doc/iwad Store - Moblies.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
+                    <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More></h3> </a>
                         
                     </div>
 
                     <div class="decoration__data">
-                        <img src="assets/img/decoration3.png" alt="" class="decoration__img">
-                        <h3 class="decoration__title">lorem</h3>
-                
+                    <a href="/original doc/iwad Store - Moblies.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
+                    <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More></h3> </a>
                     </div>
                 </div>
             </section>
@@ -123,7 +122,8 @@
 
     <div class="accessory__container bd-grid">
         <div class="accessory__content">
-            <img src="assets/img/accessory1.png" alt="" class="accessory__img">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory1.png" alt="" class="accessory__img">             </a>
+
             <h3 class="accessory__title">lorem</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$0.00</span>
@@ -131,14 +131,14 @@
         </div>
 
         <div class="accessory__content">
-            <img src="assets/img/accessory2.png" alt="" class="accessory__img">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory2.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">lorem</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$0.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
         <div class="accessory__content">
-            <img src="assets/img/accessory4.png" alt="" class="accessory__img">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory4.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">lorem</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$0.00</span>
@@ -146,7 +146,7 @@
         </div>
 
         <div class="accessory__content">
-            <img src="assets/img/accessory3.png" alt="" class="accessory__img">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory3.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">lorem</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$00.00</span>
@@ -154,7 +154,7 @@
         </div>
 
         <div class="accessory__content">
-            <img src="assets/img/accessory4.png" alt="" class="accessory__img">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory4.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">lorem</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$0.00</span>
@@ -163,7 +163,7 @@
 
 
         <div class="accessory__content">
-            <img src="assets/img/accessory5.png" alt="" class="accessory__img">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory5.png" alt="" class="accessory__img">             </a>
             <h3 class="accessory__title">lorem</h3>
             <span class="accessory__category">Accessory</span>
             <span class="accessory__preci">$0.00</span>
@@ -277,10 +277,13 @@
       <!-- item -->
       <div class = "blog-item">
         <div class = "blog-item-img">
-          <img src = "assets/./img/pngegg (20).png" alt = "blog image">
+        <a href="/original doc/iwad Store - Computers.php">                    <img src = "assets/./img/pngegg (20).png" alt = "blog image"> </a>
+      
         </div>
         <div class = "blog-item-content">
-          <a href = "#">   commodi asperiores eum repellat autem voluptatibus, maxime voluptate?</a>
+ 
+                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More On computers on Sale </h3> </a>
+                 
           <div>
             <span>Coming soon</span>
           </div>
@@ -290,10 +293,13 @@
       <!-- item -->
       <div class = "blog-item">
         <div class = "blog-item-img">
-          <img src = "assets/./img/pngegg (20).png" alt = "blog image">
+         
+        <a href="/original doc/iwad Store - Moblies.php">                          <img src = "assets/./img/pngegg (20).png" alt = "blog image"> </a>
+ 
         </div>
         <div class = "blog-item-content">
-          <a href = "#">  voluptates praesentium ducimus omnis..</a>
+          
+        <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More On Mobile  on Sale </h3> </a>
           <div>
             <span>Coming soon</span>
           </div>
@@ -303,10 +309,11 @@
       <!-- item -->
       <div class = "blog-item">
         <div class = "blog-item-img">
-          <img src = "assets/img/pngegg (20).png" alt = "blog image">
+        <a href="/original doc/iwad Store - Accesories.php">                         <img src = "assets/img/pngegg (20).png" alt = "blog image"> </a>
+
         </div>
         <div class = "blog-item-content">
-          <a href = "#">computer </a>
+        <a href="/original doc/iwad Store - Accesories.php">                 <h3 class="decoration__title"> More On Accesory  on Sale </h3> </a>
           <div>
             <span>Lorem ipsum dolor</span>
           </div>
