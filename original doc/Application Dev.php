@@ -52,8 +52,8 @@
           
 
   
-           <!-- welcome section -->
-
+      
+          
 <section class="share section bd-container" id="share">
     <div class="share__container bd-grid">
         <div class="share__data">
@@ -69,7 +69,7 @@
         </div>
     </div>
     <h2 class="section-title-center"> | Custom mobile app development | </h2>
-            <p class="share__description">  Get a native iOS or Android app that reduces operational costs, increases customers’ lifetime value, and boosts revenue. Our mobile applications will make users love your brand.Whether you are an individual entrepreneur or  organization, our mobile app development services are designed to cover your exact requirements on time and сost-efficiently. Our team is more than tech-savvy enough to build mobile software to boost your existing business KPIs and/or establish a new custom app successfully.Make use of our mobile app development services to create a memorable application that will stand out among competitive products easily. We create native apps of any complexity and certainly enjoy focusing on businesses that bring real value and useful solutions to the end-user.</p>
+            <p class="share__description"></p>
     </section>
   <!--========== Start OUR SERVICES ==========-->
 
