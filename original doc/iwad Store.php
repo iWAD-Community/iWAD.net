@@ -20,7 +20,7 @@
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
         <title>iWAD Store</title>
     </head>
-    <body>
+    <body style="overflow-x: hidden;">
         <!--========== SCROLL TOP ==========-->
         <a href="#" class="scrolltop" id="scroll-top">
             <i class='bx bx-up-arrow-alt scrolltop__icon'></i>

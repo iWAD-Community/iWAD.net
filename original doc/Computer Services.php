@@ -52,14 +52,9 @@
           
 
   
-           <!-- welcome section -->
-           <div class = "head-body container">
-                <div class = "head-body-content">
-                <h2 class="section-title-center"> |  Computer services|</h2>
-                iWAD  offers extremely affordable hosting plans without compromising too much on the quality and performance of the service. While our prices are cheap , the features that come with iWAD plans will appeal to many beginner website owners.
 
-We at iWAD offer  a variety of hosting plans with different features and all plans come with an easy website builder, free SSL certificate, 65% uptime guarantee, and 24/7/365 support.
 
+<<<<<<< HEAD
 the cheapest plan doesn’t include a free domain and has limited processing power and memory.
 
 Other services provided by iWAD include Cloud, Email, WordPress, and Windows VPS hosting plans.
@@ -72,11 +67,27 @@ All plans come with a standard 30-day money-back guarantee.
                 <div class = "head-body-img">
                   <img src = "./assets/img/coputer.png" alt = "header image">
                 </div>
+=======
+<section class="share section bd-container" id="share">
+    <div class="share__container bd-grid">
+        <div class="share__data">
+            <h2 class="section-title-center"> |  Computer services|
+                      </h2>
+                  </h2> 
+            <p class="share__description">                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat consequuntur numquam error facilis, excepturi laborum repellat sit blanditiis ipsam iste! Est, quo recusandae. Beatae vel fugiat voluptatibus tempore eos ipsa?
+.   </p>
+          
+        </div>
+>>>>>>> bc53888e2ea606b88825c9acfb7f13d23b8aeabf
       
+        <div class="share__img">
+            <img src="assets/img/coputer.png" alt="">
+        </div>
     </div>
-              </div>
+    <h2 class="section-title-center"> computer sevirces | </h2>
+            <p class="share__description"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi a in cum autem temporibus. Ipsa dolorum odit architecto nostrum, accusamus totam molestiae voluptatibus sed id perferendis atque quis animi quidem.</p>
+    </section>
 
-</section>
         <!--========== Start OUR SERVICES ==========-->
 
   <section class="decoration section bd-container" id="decoration">

@@ -52,11 +52,14 @@
           
 
   
-           <!-- welcome section -->
-           <div class = "head-body container">
-                <div class = "head-body-content">
-                <h2 class="section-title-center"> |  Design|</h2>
-                iWAD  offers extremely affordable hosting plans without compromising too much on the quality and performance of the service. While our prices are cheap , the features that come with iWAD plans will appeal to many beginner website owners.
+ 
+              <section class="share section bd-container" id="share">
+    <div class="share__container bd-grid">
+        <div class="share__data">
+            <h2 class="section-title-center"> | Graphics & Design|
+                      </h2>
+                  </h2> 
+            <p class="share__description">                 iWAD  offers extremely affordable hosting plans without compromising too much on the quality and performance of the service. While our prices are cheap , the features that come with iWAD plans will appeal to many beginner website owners.
 
 We at iWAD offer  a variety of hosting plans with different features and all plans come with an easy website builder, free SSL certificate, 65% uptime guarantee, and 24/7/365 support.
 
@@ -64,11 +67,9 @@ the cheapest plan doesn’t include a free domain and has limited processing pow
 
 Other services provided by iWAD include Cloud, Email, WordPress, and Windows VPS hosting plans.
 
-All plans come with a standard 30-day money-back guarantee.    
-                  </p>
-                 
-                </div>
+All plans come with a standard 30-day money-back guarantee.   </p>
           
+<<<<<<< HEAD
                 <div class = "head-body-img">
                   <img src = "./assets/img/design.png" alt = "header image">
                 </div>
@@ -77,10 +78,19 @@ All plans come with a standard 30-day money-back guarantee.
              
         <div class="share__data">
     <div>
+=======
+        </div>
+      
+        <div class="share__img">
+            <img src="assets/img/design.png" alt="">
+        </div>
+>>>>>>> bc53888e2ea606b88825c9acfb7f13d23b8aeabf
     </div>
-              </div>
+    <h2 class="section-title-center"> | design | </h2>
+            <p class="share__description"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi a in cum autem temporibus. Ipsa dolorum odit architecto nostrum, accusamus totam molestiae voluptatibus sed id perferendis atque quis animi quidem.</p>
+    </section>
 
-</section>  <!--========== Start OUR SERVICES ==========-->
+ <!--========== Start OUR SERVICES ==========-->
 
 <section class="decoration section bd-container" id="decoration">
       <h2 class="section-title"> <br>Our Services</h2>

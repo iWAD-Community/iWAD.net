@@ -18,7 +18,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Responsive landing page</title>
+        <title>Application Dev</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -52,43 +52,25 @@
           
 
   
-           <!-- welcome section -->
-           <div class = "head-body container">
-                <div class = "head-body-content">
-                <h2 class="section-title-center"> | App Development|
-                        Build Android and iOS apps in one go |   </h2>
-                 
-                        Here at iWAD we are are a software development company that has immense experience in creating feature-rich and high-performing native custom applications for IOS and Android platforms.We certainly keep track of the latest technical standards and design recommendation by Apple, Huawei  and Google With expertise in native and hybrid mobile development, we connect your business with people wherever they are in the world, regardless of what device they use.
-                  
-                  </p>
-                 
-                </div>
+      
           
-                <div class = "head-body-img">
-                  <img src = "./assets/img/app dev.png" alt = "header image">
-                </div>
-                  
-
-             
+<section class="share section bd-container" id="share">
+    <div class="share__container bd-grid">
         <div class="share__data">
-            <h2 class="section-title-center"> | Custom mobile app development | </h2>
-            <p class="share__description">
-            Get a native iOS or Android app that reduces operational costs, increases customers’ lifetime value, and boosts revenue. Our mobile applications will make users love your brand.Whether you are an individual entrepreneur or  organization, our mobile app development services are designed to cover your exact requirements on time and сost-efficiently. Our team is more than tech-savvy enough to build mobile software to boost your existing business KPIs and/or establish a new custom app successfully.Make use of our mobile app development services to create a memorable application that will stand out among competitive products easily. We create native apps of any complexity and certainly enjoy focusing on businesses that bring real value and useful solutions to the end-user.
- 
-
-
+            <h2 class="section-title-center"> | App Development|
+                        Build Android and iOS apps in one go |   </h2>
+                  </h2> 
+            <p class="share__description"> Here at iWAD we are are a software development company that has immense experience in creating feature-rich and high-performing native custom applications for IOS and Android platforms.We certainly keep track of the latest technical standards and design recommendation by Apple, Huawei  and Google With expertise in native and hybrid mobile development, we connect your business with people wherever they are in the world, regardless of what device they use.</p>
+          
+        </div>
       
-      
+        <div class="share__img">
+            <img src="assets/img/app dev.png" alt="">
+        </div>
     </div>
-
-          </p>
-      
-      
-    </div>
-              </div>
-
-</section>
-     
+    <h2 class="section-title-center"> | Custom mobile app development | </h2>
+            <p class="share__description">  Get a native iOS or Android app that reduces operational costs, increases customers’ lifetime value, and boosts revenue. Our mobile applications will make users love your brand.Whether you are an individual entrepreneur or  organization, our mobile app development services are designed to cover your exact requirements on time and сost-efficiently. Our team is more than tech-savvy enough to build mobile software to boost your existing business KPIs and/or establish a new custom app successfully.Make use of our mobile app development services to create a memorable application that will stand out among competitive products easily. We create native apps of any complexity and certainly enjoy focusing on businesses that bring real value and useful solutions to the end-user.</p>
+    </section>
   <!--========== Start OUR SERVICES ==========-->
 
   <section class="decoration section bd-container" id="decoration">
