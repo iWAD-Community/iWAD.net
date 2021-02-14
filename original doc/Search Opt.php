@@ -85,7 +85,6 @@ However, the search results have been evolving over the past few years to give u
 
 Also note, features like rich results and Knowledge Panels in the search results can increase visibility and provide users more information about your company directly in the results.</p>
     </section>
-  <!--========
        <!--========== Start OUR SERVICES ==========-->
 
   <section class="decoration section bd-container" id="decoration">

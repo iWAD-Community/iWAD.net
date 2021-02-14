@@ -52,11 +52,14 @@
           
 
   
-           <!-- welcome section -->
-           <div class = "head-body container">
-                <div class = "head-body-content">
-                <h2 class="section-title-center"> |  Design|</h2>
-                iWAD  offers extremely affordable hosting plans without compromising too much on the quality and performance of the service. While our prices are cheap , the features that come with iWAD plans will appeal to many beginner website owners.
+ 
+              <section class="share section bd-container" id="share">
+    <div class="share__container bd-grid">
+        <div class="share__data">
+            <h2 class="section-title-center"> | Graphics & Design|
+                      </h2>
+                  </h2> 
+            <p class="share__description">                 iWAD  offers extremely affordable hosting plans without compromising too much on the quality and performance of the service. While our prices are cheap , the features that come with iWAD plans will appeal to many beginner website owners.
 
 We at iWAD offer  a variety of hosting plans with different features and all plans come with an easy website builder, free SSL certificate, 65% uptime guarantee, and 24/7/365 support.
 
@@ -64,52 +67,19 @@ the cheapest plan doesn’t include a free domain and has limited processing pow
 
 Other services provided by iWAD include Cloud, Email, WordPress, and Windows VPS hosting plans.
 
-All plans come with a standard 30-day money-back guarantee.    
-                  </p>
-                 
-                </div>
+All plans come with a standard 30-day money-back guarantee.   </p>
           
-                <div class = "head-body-img">
-                  <img src = "./assets/img/design.png" alt = "header image">
-                </div>
-                  
-
-             
-        <div class="share__data">
-            <h2 class="section-title-center"> |  Domain Registration | </h2>
-            <p class="share__description"><h4> What is a domain name?</h4>
-            A domain is a user-friendly naming system that allows people to easily navigate web servers and web pages. Rather than making people type in an IP address whenever they want to access a certain web page (like 38.97.225.253), websites are instead assigned easy-to-remember character strings, called domains.
-                
-                <h4>What is a TLD?</h4>
-               “TLD” stands for “Top Level Domain,” and refers to the domain extension to the right of the dot. For example, the TLD for iWAD.net/iwad.com is “.com.” Some other examples of TLD extensions are .org, .rocks, .life, .dog, and many, many more.
-               
-               <h4>How can I buy a domain name?</h4>
-               Buying a domain is easy. Start by typing in the exact domain you want, or just keywords you’re interested in, into the domain search tool. When you find one you like, add it to your cart, and check out like you normally would.
-
-               <h4>How do I check if a domain name is available?</h4>
-               
-               There are a couple ways to see if a domain you want is available. First, simply type the URL into iWAD.net’s search—we’ll tell you if the domain can be registered or not. Or, search for the domain in Who is Lookup.
-               
-               <h4> What can I do with my domain name?</h4>
-               Domain names can be used in a number of ways. Direct visitors to your website’s home page or use complementary domains to send them to specific areas of your website ( e.g. your company.jobs for a careers page). Or, forward a custom domain to an existing social media account, like your Twitter profile or Periscope channel. With a domain name you can even set up custom email addresses like yourname@yoursite.social, which can be used to conduct business or communicate with your followers. [Learn more]
-               
-               I need hosting/SSL/email/other things for my website. Can I get it through iWAD.net?
-               Of course! We offer everything from flexible hosting plans to SSL certificates, and have several options for custom email. And to make your life easier, we’ve made it simple to set up these services and get your website going.
-               
-               
-
-
+        </div>
       
-      
+        <div class="share__img">
+            <img src="assets/img/design.png" alt="">
+        </div>
     </div>
+    <h2 class="section-title-center"> | design | </h2>
+            <p class="share__description"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi a in cum autem temporibus. Ipsa dolorum odit architecto nostrum, accusamus totam molestiae voluptatibus sed id perferendis atque quis animi quidem.</p>
+    </section>
 
-          </p>
-      
-      
-    </div>
-              </div>
-
-</section>  <!--========== Start OUR SERVICES ==========-->
+ <!--========== Start OUR SERVICES ==========-->
 
 <section class="decoration section bd-container" id="decoration">
       <h2 class="section-title"> <br>Our Services</h2>
