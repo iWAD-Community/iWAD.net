@@ -18,7 +18,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Web Development</title>
+        <title>Web Dev</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -77,21 +77,7 @@
         </div>
 
     </div>
-    <div class = "head-body container">
-                <div class = "head-body-content">
-                  <h2 class = "head-title">
-                  Custom Web development |  <h4>What Ever You May Desire, we  are here</h4> 
-                  </h2>
-                  <p class = "text">
-                  We build sites that work for your business and your users — be it a complex intranet platform, a progressive web app, or a marketing site we can deliver.A one size fits all solution sometimes does not fit the individual needs, wants and goals of every organization. Custom web applications can solve problems within an organization, bring an exciting new idea to your customers, better promote your brand and provide increased security. Unleashed Technologies builds powerful and scalable web apps that leverage the latest web technologies and agile development processes.
-                  </p>
-             
-                </div>
-          
-                <div class = "head-body-img">
-                  <img src = "./assets/img/round-chair.png" alt = "header image">
-                </div>
-              </div>
+
         <!--========== Start OUR SERVICES ==========-->
 
   <section class="decoration section bd-container" id="decoration">
