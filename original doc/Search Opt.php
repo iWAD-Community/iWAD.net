@@ -58,7 +58,9 @@
                 <h2 class="section-title-center">|  Search Engine optimization|   </h2>
                  
                 <h4>What Is SEO / Search Engine Optimization?</h4>
-                        Here at iWAD can provide u SEO Services bt first let us explain what it is all about,  SEO stands for “search engine optimization.” In simple terms, it means the process of improving your site to increase its visibility for relevant searches. The better visibility your pages have in search results, the more likely you are to garner attention and attract prospective and existing customers to your business.
+                        Here at iWAD can provide you SEO Services but first let us explain what it is all about.   
+                        SEO stands for “search engine optimization.” In simple terms, it means the process of improving your site to increase its visibility for relevant searches.
+                        The better visibility your pages have in search results, the more likely you are to garner attention and attract prospective and existing customers to your business.
                   
                   </p>
                  

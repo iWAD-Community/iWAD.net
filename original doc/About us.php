@@ -65,9 +65,8 @@
                   
     <div class="share__data">
       <h2 class="section-title-center">iWAD’s Design team| </h2>
-      <p class="share__description">not only understands how to create great visuals but also enjoys a strong foundation in the development of both public and enterprise apps. The core of our design team could be expressed in one statement "give people access to superb technology with clarity and grace".We believe in a team where everyone is accessible at all times. IWAD has created a professional workflow, which places an emphasis on diversity, innovation, and growth. Our team examines and distinguishes a breadth of characteristics to find out your strengths and potentials, broadens and improves on the assets we already have.
-
-        It is for that reason that our apps are sleek and aesthetically pleasing. This attitude enchants you, makes brings out your amazing side, and simplifies your life.
+      <p class="share__description">Not only understands how to create great visuals but also enjoys a strong foundation in the development of both public and enterprise apps.We believe in a team where everyone is accessible at all times. IWAD has created a professional workflow, which places an emphasis on diversity, innovation, and growth. Our team examines and distinguishes a breadth of characteristics to find out your strengths and potentials, broadens and improves on the assets we already have. <br>
+      </p>
         We seriously enjoy every minute of our work here. Moreover, we know when and how to enjoy ourselves.
         Sometimes we kick it old school with arcade games. Sometimes we flaunt our athletic sides and go bowling and take canoe trips. We always try to start something new and interesting: like our English Education Program for each member of the iWAD team and comprehensive courses for time management skills.
         Engaged with our work and family, health care, hobbies, friends, and self-development, we never miss a beat.
