@@ -53,18 +53,17 @@
                <div class = "head-body container">
                 <div class = "head-body-content">
                   <h1 class = "head-title">
-                    welcome to iwad store online Shop
+                    Computer Section
                   </h1>
                   <p class = "text">
-                  iWAD Store , is an online store that is reliable and offers quality services to its customers.
-                  We promise we won't disapoint you. At the moment we can not do online payments ,you will have to contact one of our agents <a href="Contacts.php" class="nav__link">"Contact Us"</a> on how your product will be delivered and paid for .
-                  Thank you and we hope you will enjoy the tour in our store. 
+                  Here at iwad We sale sale Brand new Desktops and Laptops at affordable Prices.
+                  <a href="Contacts.php" class="nav__link">"Contact Us"</a> for more information  and get a good quality computer.
                   </p>
                  
                 </div>
           
                 <div class = "head-body-img">
-                  <img src = "./assets/img/Online.png" alt = "header image">
+                  <img src = "./assets/img/Co3.png" alt = "header image">
                 </div>
               </div>
 
@@ -72,88 +71,7 @@
   
 
 </section>
-         <!-- trending product -->
-         <section class="decoration section bd-container" id="decoration">
-                <h2 class="section-title"> iWAD Sales</h2>
-                <div class="decoration__container bd-grid">
-                    <div class="decoration__data">
-                    <a href="/Computers.php"><img src="assets/img/comp1.jpg" alt="" class="decoration__img">  </a>
-                    <a href="/Computers.php">                 <h3 class="decoration__title"> Computers</h3> </a>
-                 
-                    </div>
-
-                    <div class="decoration__data">
-                    <a href="/Moblies.php"><img src="assets/img/cell2.jpg" alt="" class="decoration__img">  </a>
-                    <a href="/Moblies.php">                 <h3 class="decoration__title"> Moblies Devices</h3> </a>
-                 
-                        
-                    </div>
-
-                    <div class="decoration__data">
-                    <a href="/Accesories.php"><img src="assets/img/access1.jpg" alt="" class="decoration__img">  </a>
-                    <a href="/Accesories.php">                 <h3 class="decoration__title"> Accesories</h3> </a>
-                 
-                    </div>
-                </div>
-            </section>
-            
-  <!--========== ACCESSORIES ==========-->
-  <section class="accessory section bd-container" id="accessory">
-    <h2 class="section-title">New  <br> Accessories</h2>
-
-    <div class="accessory__container bd-grid">
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/cable.jpg" alt="" class="accessory__img">             </a>
-
-            <h3 class="accessory__title">Apple Charging cable</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$8.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/p3.jpg" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">Pouches</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$5.00 - $10.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/phone3.jpg" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">Apple Earphones</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$12.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/scr1.jpg" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">Screen Protector</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$5.00 - $10.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/hd1.jpg" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">HDMI Cable</h3>
-            <span class="accessory__category">Depending With metres</span>
-            <span class="accessory__preci">$7.00 - $---</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/set12.jpg" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">Setilite Kit</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$20.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-    </div>
-</section>
-
-<div class = "underline"></div>
+         
 
 <!-- featured product -->
 <section class = "featured">
@@ -161,17 +79,19 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/iphone12black.jpg" alt = "feature image">
+        <img src = "assets/img/HP-Pavilion-G6-2.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>Boxed Iphone 12(128gig)</h2>
-          <p class = "item-price">$1400.00</p>
+          <h2>Used Hp pavilion g6 coi5</h2>
+          <p class = "item-price">$250.00</p>
         </div>
         <p class = "text">
-        5G speed. A14 Bionic, the fastest chip in a smartphone.
-        An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes.
+        Hp pavilion g6 coi5
+        320gig hdd
+        4gig ram
+        3hrs battery
          </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -208,17 +128,21 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/EX1.jpg" alt = "feature image">
+        <img src = "assets/./img/asp1.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>hard drive</h2>
-          <p class = "item-price">$50.00</p>
+          <h2>Acer Aspire One</h2>
+          <p class = "item-price">$200.00</p>
         </div>
         <p class = "text">
-          
-        ATA 1Tera External HDD Hard Drive USB 2.0 ,Brand new HDD
+        Acer Aspire 11,6" display
+        4Gig Ram
+        Dual core
+        500 Gig HDD memory
+        5 hrs on battery(Standby)
+        Windows 10 Pro
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -230,16 +154,125 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/ra.jpg" alt = "feature image">
+        <img src = "assets/./img/dell-inspiron.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>8 DD4 LAPTOP RAM</h2>
-          <p class = "item-price">$30.00</p>
+          <h2>Dell n5050 dualcore</h2>
+          <p class = "item-price">$160.00</p>
         </div>
         <p class = "text">
-         Good Working 8 DD4 LAPTOP RAM. Hurry while stock last.
+        Dell n5050 dualcore
+        320gig hdd
+        2gig ram
+        2hrs battery
+        </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/img/zed.jpg" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>featured product </h4>
+          <h2>Zed air coi3 6th gen</h2>
+          <p class = "item-price">$230.00</p>
+        </div>
+        <p class = "text">
+        Zed air coi3 6th gen
+        320gig hdd
+        4gig ram
+        4hrs battery
+        Slim type
+        Type C port 
+        3.0 x2 USB ports 
+        Anti-glare screen
+        1080p resolution 
+         </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/img/DELL-6430-6420.jpeg" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>featured product </h4>
+          <h2>Dell E6430 coi5 boxed</h2>
+          <p class = "item-price">$450.00</p>
+        </div>
+        <p class = "text">
+        Dell E6430 coi5 boxed
+        500gig hdd
+        4gig ram
+        14inches
+        </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/./img/HP-255-G6-c.jpg" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>featured product </h4>
+          <h2>Hp 255 g6 dualcore</h2>
+          <p class = "item-price">$230.00</p>
+        </div>
+        <p class = "text">
+        Hp 255 g6 dualcore
+        500gig hdd
+        4gig ram
+        4hrs battery
+        Superslim
+        </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/./img/dell.jpg" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>featured product </h4>
+          <h2>Dell E6540 coi7 gaming</h2>
+          <p class = "item-price">$480.00</p>
+        </div>
+        <p class = "text">
+        Dell E6540 coi7 gaming
+        4th generation 
+        500gig hdd
+        8gig ram
+        2gig dedicated amd radeon
+        15.6 inches 
+        Backlit keyboard 
+        3hrs battery.
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -251,6 +284,31 @@
   </div>
 </section>
 <!-- end of featured product -->
+
+<!-- trending product -->
+<section class="decoration section bd-container" id="decoration">
+                <h2 class="section-title"> iWAD Sales</h2>
+                <div class="decoration__container bd-grid">
+                    <div class="decoration__data">
+                    <a href="/Computers.php"><img src="assets/img/comp1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Computers.php">                 <h3 class="decoration__title"> Computers</h3> </a>
+                 
+                    </div>
+
+                    <div class="decoration__data">
+                    <a href="/Moblies.php"><img src="assets/img/cell2.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Moblies.php">                 <h3 class="decoration__title"> Moblies Devices</h3> </a>
+                 
+                        
+                    </div>
+
+                    <div class="decoration__data">
+                    <a href="/Accesories.php"><img src="assets/img/access1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Accesories.php">                 <h3 class="decoration__title"> Accesories</h3> </a>
+                 
+                    </div>
+                </div>
+            </section>
 
 
 

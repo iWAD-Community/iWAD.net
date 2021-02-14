@@ -18,7 +18,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Responsive landing page</title>
+        <title>iWAD Store</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -53,16 +53,17 @@
                <div class = "head-body container">
                 <div class = "head-body-content">
                   <h1 class = "head-title">
-                    welcome to iwad store Beta Version
+                    Mobile Device Section
                   </h1>
                   <p class = "text">
-                  Still under Construction adipisicing elit. Veniam nam repudiandae aliquam ullam nulla sunt voluptate dolorem cumque sed corporis, debitis iste odit necessitatibus repellat!
+                  At iWAD we offer you Brand new and used cell phones. We sell Iphones ,Samsung ,Huawei and many more.
+                  <a href="Contacts.php" class="nav__link">"Contact Us"</a> for more information , enjoy your tour thank you.
                   </p>
                  
                 </div>
           
                 <div class = "head-body-img">
-                  <img src = "./assets/img/pngegg (21).png" alt = "header image">
+                  <img src = "./assets/img/mobx.jpg" alt = "header image">
                 </div>
               </div>
 
@@ -70,44 +71,47 @@
   
 
 </section>
-       <!--========== DECORATION ==========-->
-       <section class="decoration section bd-container" id="decoration">
-                <h2 class="section-title">iWAD Mobiles Devices  <br> <h4>IOS & Android </h4></h2>
-                <div class="decoration__container bd-grid">
-                    <div class="decoration__data">
-                    <a href="/original doc/iwad Store - Moblies.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
-                    <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More></h3> </a>
-        
-                    </div>
+         
 
-                    <div class="decoration__data">
-                    <a href="/original doc/iwad Store - Moblies.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
-                    <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More></h3> </a>
-                        
-                    </div>
-
-                    <div class="decoration__data">
-                    <a href="/original doc/iwad Store - Moblies.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
-                    <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More></h3> </a>
-                    </div>
-                </div>
-            </section>
 <!-- featured product -->
 <section class = "featured">
   <div class = "container">
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/pngegg (21).png" alt = "feature image">
+        <img src = "assets/img/iphone12black.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>red iwad cup</h2>
-          <p class = "item-price">$0.00</p>
+          <h2>Boxed Iphone 12(128gig)</h2>
+          <p class = "item-price">$1400.00</p>
         </div>
         <p class = "text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quasi consequatur veniam, veritatis necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
+        5G speed. A14 Bionic, the fastest chip in a smartphone.
+        An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes.
+         </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/img/samsungs21.jpg" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>featured product </h4>
+          <h2>
+           Samsung Galaxy S21 Ultra 128GB 5G Smartphone</h2>
+          <p class = "item-price">$1500.00</p>
+        </div>
+        <p class = "text">
+        Create professional quality content with the pro-grade camera system of the Samsung Galaxy S21 Ultra STORAGE 5G Smartphone. The quad camera system
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -119,16 +123,16 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/pngegg (20).png" alt = "feature image">
+        <img src = "assets/./img/Huawei-P40-Lite.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>single comfort  programming chair</h2>
-          <p class = "item-price">$0.00</p>
+          <h2>P40 lite (128GB)</h2>
+          <p class = "item-price">$280.00</p>
         </div>
         <p class = "text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quasi consequatur veniam, veritatis necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
+        Huawei P40 lite 5G Android smartphone. Announced May 2020. Features 6.5″ display, Kirin 820 5G chipset, 4000 mAh battery, 128 GB storage, 6 GB RAM.
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -140,16 +144,16 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/pngegg (20).png" alt = "feature image">
+        <img src = "assets/./img/appleX.png" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>hard drive</h2>
-          <p class = "item-price">$0.00</p>
+          <h2>Used Apple iPhone X, Silver, 256GB,NO FACE ID </h2>
+          <p class = "item-price">$380.00</p>
         </div>
         <p class = "text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quasi consequatur veniam, veritatis necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
+        Apple iPhone X · Display 5.80-inch (1125x2436) · Processor Apple A11 Bionic · Front Camera 7MP · Rear Camera 12MP + 12MP · RAM 3GB
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -161,16 +165,81 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/pngegg (21).png" alt = "feature image">
+        <img src = "assets/img/j4.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
           <h4>featured product </h4>
-          <h2>Gaming key board</h2>
-          <p class = "item-price">$0.00</p>
+          <h2>Used Samsung j4 core ,16gig</h2>
+          <p class = "item-price">$100.00</p>
         </div>
         <p class = "text">
-         necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
+        Samsung Galaxy J4 Core · Released 2018, November · 177g, 7.9mm thickness · Android 8.1 Oreo · 16GB storage, microSDXC
+         </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/img/iPhone7.jpg" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>featured product </h4>
+          <h2>Used Apple iPhone 7 (32GB) </h2>
+          <p class = "item-price">$200.00</p>
+        </div>
+        <p class = "text">
+        Apple iPhone 7 Plus smartphone. Announced Sep 2016. Features 5.5″ display, Apple A10 Fusion chipset, Dual: 12 MP
+        </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/./img/ipad_mini.png" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>featured product </h4>
+          <h2>iPad Mini 1 32GB WiFi + Cellular 3G</h2>
+          <p class = "item-price">$70.00</p>
+        </div>
+        <p class = "text">
+        Apple iPad mini Wi-Fi + Cellular tablet. Announced Oct 2012. Features 7.9″ display, Apple A5 chipset, 5 MP primary camera, 1.2 MP front camera
+        <br>
+        Need Touch Replacement , it has internal cloud
+        </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/./img/6s.jpg" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>featured product </h4>
+          <h2>Used APPLE-iPhone 6S - 16GB</h2>
+          <p class = "item-price">$140.00</p>
+        </div>
+        <p class = "text">
+        Apple iPhone 6 · Released 2014, September 19 · 129g, 6.9mm thickness · iOS 8, up to iOS 12.4. 6 · 16GB
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -183,65 +252,32 @@
 </section>
 <!-- end of featured product -->
 
-<!-- blog -->
-<section class = "blog">
-  <div class = "container">
-    <div class = "title">
-      <h4>loren</h4>
-      <h2>lorem</h2>
-    </div>
-
-    <div class = "blog-grid">
-      <!-- item -->
-      <div class = "blog-item">
-        <div class = "blog-item-img">
-        <a href="/original doc/iwad Store - Computers.php">                    <img src = "assets/./img/pngegg (20).png" alt = "blog image"> </a>
-      
-        </div>
-        <div class = "blog-item-content">
- 
-                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More On computers on Sale </h3> </a>
+<!-- trending product -->
+<section class="decoration section bd-container" id="decoration">
+                <h2 class="section-title"> iWAD Sales</h2>
+                <div class="decoration__container bd-grid">
+                    <div class="decoration__data">
+                    <a href="/Computers.php"><img src="assets/img/comp1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Computers.php">                 <h3 class="decoration__title"> Computers</h3> </a>
                  
-          <div>
-            <span>Coming soon</span>
-          </div>
-        </div>
-      </div>
-      <!-- end of item -->
-      <!-- item -->
-      <div class = "blog-item">
-        <div class = "blog-item-img">
-         
-        <a href="/original doc/iwad Store - Moblies.php">                          <img src = "assets/./img/pngegg (20).png" alt = "blog image"> </a>
- 
-        </div>
-        <div class = "blog-item-content">
-          
-        <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More On Mobile  on Sale </h3> </a>
-          <div>
-            <span>Coming soon</span>
-          </div>
-        </div>
-      </div>
-      <!-- end of item -->
-      <!-- item -->
-      <div class = "blog-item">
-        <div class = "blog-item-img">
-        <a href="/original doc/iwad Store - Accesories.php">                         <img src = "assets/img/pngegg (20).png" alt = "blog image"> </a>
+                    </div>
 
-        </div>
-        <div class = "blog-item-content">
-        <a href="/original doc/iwad Store - Accesories.php">                 <h3 class="decoration__title"> More On Accesory  on Sale </h3> </a>
-          <div>
-            <span>Lorem ipsum dolor</span>
-          </div>
-        </div>
-      </div>
-      <!-- end of item -->
-    </div>
-  </div>
-</section>
-<!-- end of blog -->
+                    <div class="decoration__data">
+                    <a href="/Moblies.php"><img src="assets/img/cell2.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Moblies.php">                 <h3 class="decoration__title"> Moblies Devices</h3> </a>
+                 
+                        
+                    </div>
+
+                    <div class="decoration__data">
+                    <a href="/Accesories.php"><img src="assets/img/access1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Accesories.php">                 <h3 class="decoration__title"> Accesories</h3> </a>
+                 
+                    </div>
+                </div>
+            </section>
+
+
 
     <!--========== SEND Email==========-->
     <section class="send section">

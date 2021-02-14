@@ -18,7 +18,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Responsive landing page</title>
+        <title>Accesories</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -53,16 +53,17 @@
                <div class = "head-body container">
                 <div class = "head-body-content">
                   <h1 class = "head-title">
-                    welcome to iwad Store - Accesories
+                    Accesories Section
                   </h1>
                   <p class = "text">
-                  Still under Construction adipisicing elit. Veniam nam repudiandae aliquam ullam nulla sunt voluptate dolorem cumque sed corporis, debitis iste odit necessitatibus repellat!
+                  If you are looking for Accesories for your mobile phones ,Laptops ,Desktops and many other Accesories ,you are in the right place.
+                  iWAD Store offers you good quality Accesories at an affordable. <a href="Contacts.php" class="nav__link">"Contact Us"</a> for more information. 
                   </p>
                  
                 </div>
           
                 <div class = "head-body-img">
-                  <img src = "./assets/img/pngegg (21).png" alt = "header image">
+                  <img src = "./assets/img/Mobile-accessories.jpg" alt = "header image">
                 </div>
               </div>
 
@@ -70,81 +71,47 @@
   
 
 </section>
-    
-  <!--========== ACCESSORIES ==========-->
-  <section class="accessory section bd-container" id="accessory">
-    <h2 class="section-title">New  <br> Accessories</h2>
-
-    <div class="accessory__container bd-grid">
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory1.png" alt="" class="accessory__img">             </a>
-
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory2.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory4.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory3.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$00.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory4.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory5.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-    </div>
-</section>
-
-<div class = "underline"></div>
-
+            
+  
 <!-- featured product -->
 <section class = "featured">
   <div class = "container">
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/pngegg (21).png" alt = "feature image">
+        <img src = "assets/img/tera.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
-          <h4>featured product </h4>
-          <h2>red iwad cup</h2>
-          <p class = "item-price">$0.00</p>
+          <h4>Specials </h4>
+          <h2>1 Tera Laptop Hard Drive</h2>
+          <p class = "item-price">Price $45.00</p>
+          <p class = "item-price"><m style="color: red;">$42,00<m/></p>
         </div>
         <p class = "text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quasi consequatur veniam, veritatis necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
+        Shop for 1 terabyte external hard drive at Best Buy
+         </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/img/dellc.jpg" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>Specials </h4>
+          <h2>Dell Laptop Charger</h2>
+          <p class = "item-price">Price $12.00</p>
+          <p class = "item-price"><m style="color: red;">$10,00<m/></p>
+        </div>
+        <p class = "text">
+        DELL Laptop Charger (AC Adapter) Power Supply Cord: 19.5V, 3.34A, 65W (Pin size 4.5mm x 3mm. Specifications - Voltage: 19.5V - Current: 3.34A -
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -156,37 +123,18 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/pngegg (20).png" alt = "feature image">
+        <img src = "assets/./img/EX1.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
-          <h4>featured product </h4>
-          <h2>single comfort  programming chair</h2>
-          <p class = "item-price">$0.00</p>
-        </div>
-        <p class = "text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quasi consequatur veniam, veritatis necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
-        </p>
-        <div class = "featured-btns">
-          <button type = "button" class = "btn">Explore</button>
-          <button type = "button" class = "btn">Purchase</button>
-        </div>
-      </div>
-    </div>
-    <!-- end of item -->
-    <!-- item -->
-    <div class = "featured-item">
-      <div class = "featured-item-img">
-        <img src = "assets/./img/pngegg (20).png" alt = "feature image">
-      </div>
-      <div class = "featured-item-content">
-        <div class = "title">
-          <h4>featured product </h4>
+          <h4>Specials </h4>
           <h2>hard drive</h2>
-          <p class = "item-price">$0.00</p>
+          <p class = "item-price">$50.00</p>
+          <p class = "item-price"><m style="color: red;">$45,00<m/></p>
         </div>
         <p class = "text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quasi consequatur veniam, veritatis necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
+          
+        ATA 1Tera External HDD Hard Drive USB 2.0 ,Brand new HDD
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -198,16 +146,18 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/pngegg (21).png" alt = "feature image">
+        <img src = "assets/./img/ra.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
-          <h4>featured product </h4>
-          <h2>Gaming key board</h2>
-          <p class = "item-price">$0.00</p>
+          <h4>Specials </h4>
+          <h2>8 DD4 LAPTOP RAM</h2>
+          <p class = "item-price">Price $30.00</p>
+          <p class = "item-price"><m style="color: red;">$25,00<m/></p>
+
         </div>
         <p class = "text">
-         necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
+         Good Working 8 DD4 LAPTOP RAM. Hurry while stock last.
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -220,66 +170,207 @@
 </section>
 <!-- end of featured product -->
 
+<!--========== ACCESSORIES ==========-->
+<section class="accessory section bd-container" id="accessory">
+    <h2 class="section-title">Computer  <br> Accessories</h2>
 
-<!-- blog -->
-<section class = "blog">
-  <div class = "container">
-    <div class = "title">
-      <h4>loren</h4>
-      <h2>lorem</h2>
+    <div class="accessory__container bd-grid">
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/ram.png" alt="" class="accessory__img">             </a>
+
+            <h3 class="accessory__title">DDR2, DDR3 ,DDR4 Ram Available</h3>
+            <span class="accessory__category">Price Vary With Type and Size</span>
+            <span class="accessory__preci">$-.--</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/Hard-D.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Drive</h3>
+            <span class="accessory__category">Price Vary With Size</span>
+            <span class="accessory__preci">$---</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/VGA.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">VGA Cable</h3>
+            <span class="accessory__category">Accessory</span>
+            <span class="accessory__preci">$10.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/keyboard.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Laptop keyboards</h3>
+            <span class="accessory__category">Price Vary with Type</span>
+            <span class="accessory__preci">$--.--</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/screen.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Laptop Screens</h3>
+            <span class="accessory__category">Price Depending With Type</span>
+            <span class="accessory__preci">$35.00 - $---</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/motherboard.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Desktop and Laptop Motherboards</h3>
+            <span class="accessory__category">Prices Depend on Type of Motherboard</span>
+            <span class="accessory__preci">$--.--</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
     </div>
-
-    <div class = "blog-grid">
-      <!-- item -->
-      <div class = "blog-item">
-        <div class = "blog-item-img">
-        <a href="/original doc/iwad Store - Computers.php">                    <img src = "assets/./img/pngegg (20).png" alt = "blog image"> </a>
-      
-        </div>
-        <div class = "blog-item-content">
- 
-                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More On computers on Sale </h3> </a>
-                 
-          <div>
-            <span>Coming soon</span>
-          </div>
-        </div>
-      </div>
-      <!-- end of item -->
-      <!-- item -->
-      <div class = "blog-item">
-        <div class = "blog-item-img">
-         
-        <a href="/original doc/iwad Store - Moblies.php">                          <img src = "assets/./img/pngegg (20).png" alt = "blog image"> </a>
- 
-        </div>
-        <div class = "blog-item-content">
-          
-        <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More On Mobile  on Sale </h3> </a>
-          <div>
-            <span>Coming soon</span>
-          </div>
-        </div>
-      </div>
-      <!-- end of item -->
-      <!-- item -->
-      <div class = "blog-item">
-        <div class = "blog-item-img">
-        <a href="/original doc/iwad Store - Accesories.php">                         <img src = "assets/img/pngegg (20).png" alt = "blog image"> </a>
-
-        </div>
-        <div class = "blog-item-content">
-        <a href="/original doc/iwad Store - Accesories.php">                 <h3 class="decoration__title"> More On Accesory  on Sale </h3> </a>
-          <div>
-            <span>Lorem ipsum dolor</span>
-          </div>
-        </div>
-      </div>
-      <!-- end of item -->
-    </div>
-  </div>
 </section>
-<!-- end of blog -->
+
+<div class = "underline"></div>
+
+<!--========== ACCESSORIES ==========-->
+<section class="accessory section bd-container" id="accessory">
+    <h2 class="section-title">Mobile Phone <br> Accessories</h2>
+
+    <div class="accessory__container bd-grid">
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/cable.png" alt="" class="accessory__img">             </a>
+
+            <h3 class="accessory__title">Apple Charging cable</h3>
+            <span class="accessory__category">Accessory</span>
+            <span class="accessory__preci">$8.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/pouch.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Pouches</h3>
+            <span class="accessory__category">Accessory</span>
+            <span class="accessory__preci">$5.00 - $10.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/apple-earbuds.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Apple Earphones</h3>
+            <span class="accessory__category">Accessory</span>
+            <span class="accessory__preci">$12.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/sp.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Screen Protector</h3>
+            <span class="accessory__category">Accessory</span>
+            <span class="accessory__preci">$5.00 - $10.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/memory.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Memory Cards</h3>
+            <span class="accessory__category">Price Vary With Size</span>
+            <span class="accessory__preci">$5.00 - $---</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/battery.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Batteries</h3>
+            <span class="accessory__category">Price Depend On Type</span>
+            <span class="accessory__preci">$--.-</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+    </div>
+</section>
+
+<div class = "underline"></div>
+
+<!--========== ACCESSORIES ==========-->
+<section class="accessory section bd-container" id="accessory">
+    <h2 class="section-title">Gaming  <br> Accessories</h2>
+
+    <div class="accessory__container bd-grid">
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+
+            <h3 class="accessory__title">Gaming</h3>
+            <span class="accessory__category">Accessory</span>
+            <span class="accessory__preci">$0.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Gaming</h3>
+            <span class="accessory__category">Accessory</span>
+            <span class="accessory__preci">$$0.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Gaming</h3>
+            <span class="accessory__category">Accessory</span>
+            <span class="accessory__preci">$0.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Gaming</h3>
+            <span class="accessory__category">Accessory</span>
+            <span class="accessory__preci">$0.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Gaming</h3>
+            <span class="accessory__category">Accesories</span>
+            <span class="accessory__preci">$0.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/need.png" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Gaming</h3>
+            <span class="accessory__category">Accessory</span>
+            <span class="accessory__preci">$0.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+    </div>
+</section>
+
+<div class = "underline"></div>
+
+<!-- trending product -->
+<section class="decoration section bd-container" id="decoration">
+                <h2 class="section-title"> iWAD Sales</h2>
+                <div class="decoration__container bd-grid">
+                    <div class="decoration__data">
+                    <a href="/Computers.php"><img src="assets/img/comp1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Computers.php">                 <h3 class="decoration__title"> Computers</h3> </a>
+                 
+                    </div>
+
+                    <div class="decoration__data">
+                    <a href="/Moblies.php"><img src="assets/img/cell2.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Moblies.php">                 <h3 class="decoration__title"> Moblies Devices</h3> </a>
+                 
+                        
+                    </div>
+
+                    <div class="decoration__data">
+                    <a href="/Accesories.php"><img src="assets/img/access1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Accesories.php">                 <h3 class="decoration__title"> Accesories</h3> </a>
+                 
+                    </div>
+                </div>
+            </section>
+
+
+
     <!--========== SEND Email==========-->
     <section class="send section">
         <div class="send__container bd-container bd-grid">

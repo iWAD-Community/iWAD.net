@@ -18,7 +18,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Responsive landing page</title>
+        <title>iWAD Store</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -53,16 +53,18 @@
                <div class = "head-body container">
                 <div class = "head-body-content">
                   <h1 class = "head-title">
-                    welcome to iwad store Beta Version
+                    welcome to iwad store online Shop
                   </h1>
                   <p class = "text">
-                  Still under Construction adipisicing elit. Veniam nam repudiandae aliquam ullam nulla sunt voluptate dolorem cumque sed corporis, debitis iste odit necessitatibus repellat!
+                  iWAD Store , is an online store that is reliable and offers quality services to its customers.
+                  We promise we won't disapoint you. At the moment we can not do online payments ,you will have to contact one of our agents <a href="Contacts.php" class="nav__link">"Contact Us"</a> on how your product will be delivered and paid for .
+                  Thank you and we hope you will enjoy the tour in our store. 
                   </p>
                  
                 </div>
           
                 <div class = "head-body-img">
-                  <img src = "./assets/img/pngegg (21).png" alt = "header image">
+                  <img src = "./assets/img/Online.png" alt = "header image">
                 </div>
               </div>
 
@@ -72,101 +74,80 @@
 </section>
          <!-- trending product -->
          <section class="decoration section bd-container" id="decoration">
-                <h2 class="section-title"> iWAD Computers <br> <h4>For all your Computation needs Mac and PC</h4></h2>
+                <h2 class="section-title"> iWAD Sales</h2>
                 <div class="decoration__container bd-grid">
                     <div class="decoration__data">
-                    <a href="/original doc/iwad Store - Computers.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
-                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More></h3> </a>
+                    <a href="/Computers.php"><img src="assets/img/comp1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Computers.php">                 <h3 class="decoration__title"> Computers</h3> </a>
                  
                     </div>
 
                     <div class="decoration__data">
-                    <a href="/original doc/iwad Store - Computers.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
-                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More></h3> </a>
+                    <a href="/Moblies.php"><img src="assets/img/cell2.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Moblies.php">                 <h3 class="decoration__title"> Moblies Devices</h3> </a>
                  
                         
                     </div>
 
                     <div class="decoration__data">
-                    <a href="/original doc/iwad Store - Computers.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
-                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More></h3> </a>
+                    <a href="/Accesories.php"><img src="assets/img/access1.jpg" alt="" class="decoration__img">  </a>
+                    <a href="/Accesories.php">                 <h3 class="decoration__title"> Accesories</h3> </a>
                  
                     </div>
                 </div>
             </section>
-            <!--========== DECORATION ==========-->
-            <section class="decoration section bd-container" id="decoration">
-                <h2 class="section-title">iWAD Mobiles Devices  <br> <h4>IOS & Android </h4></h2>
-                <div class="decoration__container bd-grid">
-                    <div class="decoration__data">
-                    <a href="/original doc/iwad Store - Moblies.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
-                    <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More></h3> </a>
-        
-                    </div>
-
-                    <div class="decoration__data">
-                    <a href="/original doc/iwad Store - Moblies.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
-                    <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More></h3> </a>
-                        
-                    </div>
-
-                    <div class="decoration__data">
-                    <a href="/original doc/iwad Store - Moblies.php"><img src="assets/img/decoration1.png" alt="" class="decoration__img">  </a>
-                    <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More></h3> </a>
-                    </div>
-                </div>
-            </section>
+            
   <!--========== ACCESSORIES ==========-->
   <section class="accessory section bd-container" id="accessory">
     <h2 class="section-title">New  <br> Accessories</h2>
 
     <div class="accessory__container bd-grid">
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory1.png" alt="" class="accessory__img">             </a>
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/cable.jpg" alt="" class="accessory__img">             </a>
 
-            <h3 class="accessory__title">lorem</h3>
+            <h3 class="accessory__title">Apple Charging cable</h3>
             <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
+            <span class="accessory__preci">$8.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory2.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">lorem</h3>
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/p3.jpg" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Pouches</h3>
             <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
+            <span class="accessory__preci">$5.00 - $10.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory4.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">lorem</h3>
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/phone3.jpg" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Apple Earphones</h3>
             <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
-            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
-        </div>
-
-        <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory3.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">lorem</h3>
-            <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$00.00</span>
+            <span class="accessory__preci">$12.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory4.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">lorem</h3>
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/scr1.jpg" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Screen Protector</h3>
             <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
+            <span class="accessory__preci">$5.00 - $10.00</span>
+            <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
+        </div>
+
+        <div class="accessory__content">
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/hd1.jpg" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">HDMI Cable</h3>
+            <span class="accessory__category">Depending With metres</span>
+            <span class="accessory__preci">$7.00 - $---</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
 
 
         <div class="accessory__content">
-        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/accessory5.png" alt="" class="accessory__img">             </a>
-            <h3 class="accessory__title">lorem</h3>
+        <a href="/original doc/iwad Store - Accesories.php">                <img src="assets/img/set12.jpg" alt="" class="accessory__img">             </a>
+            <h3 class="accessory__title">Setilite Kit</h3>
             <span class="accessory__category">Accessory</span>
-            <span class="accessory__preci">$0.00</span>
+            <span class="accessory__preci">$20.00</span>
             <a href="#" class="button accessory__button"><i class='bx bx-heart'></i></a>
         </div>
     </div>
@@ -180,16 +161,44 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/pngegg (21).png" alt = "feature image">
+        <img src = "assets/img/iphone12black.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
-          <h4>featured product </h4>
-          <h2>red iwad cup</h2>
-          <p class = "item-price">$0.00</p>
+          <h4>On Special </h4>
+          <h2>Boxed Iphone 12(128gig)</h2>
+          <p class = "item-price">Price $1400.00</p>
+          <p class = "item-price"><m style="color: red;">$1390,00<m/></p>
         </div>
         <p class = "text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quasi consequatur veniam, veritatis necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
+        5G speed. A14 Bionic, the fastest chip in a smartphone.
+        An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes.
+         </p>
+        <div class = "featured-btns">
+          <button type = "button" class = "btn">Explore</button>
+          <button type = "button" class = "btn">Purchase</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of item -->
+    <!-- item -->
+    <div class = "featured-item">
+      <div class = "featured-item-img">
+        <img src = "assets/img/g4.jpg" alt = "feature image">
+      </div>
+      <div class = "featured-item-content">
+        <div class = "title">
+          <h4>On Special </h4>
+          <h2>Hp 450 g4 coi7 gaming</h2>
+          <p class = "item-price">Price $550.00</p>
+          <p class = "item-price"><m style="color: red;">$540,00<m/></p>
+        </div>
+        <p class = "text">
+        7th generation
+        1 terabyte hdd
+        8gig ram ddr4
+        2gig dedicated nvidia GeForce graphics card
+        4hrs battery
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -201,37 +210,18 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/img/pngegg (20).png" alt = "feature image">
+        <img src = "assets/./img/EX1.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
-          <h4>featured product </h4>
-          <h2>single comfort  programming chair</h2>
-          <p class = "item-price">$0.00</p>
-        </div>
-        <p class = "text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quasi consequatur veniam, veritatis necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
-        </p>
-        <div class = "featured-btns">
-          <button type = "button" class = "btn">Explore</button>
-          <button type = "button" class = "btn">Purchase</button>
-        </div>
-      </div>
-    </div>
-    <!-- end of item -->
-    <!-- item -->
-    <div class = "featured-item">
-      <div class = "featured-item-img">
-        <img src = "assets/./img/pngegg (20).png" alt = "feature image">
-      </div>
-      <div class = "featured-item-content">
-        <div class = "title">
-          <h4>featured product </h4>
+          <h4>On Special </h4>
           <h2>hard drive</h2>
-          <p class = "item-price">$0.00</p>
+          <p class = "item-price">Price $50.00</p>
+          <p class = "item-price"><m style="color: red;">$48,00<m/></p>
         </div>
         <p class = "text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quasi consequatur veniam, veritatis necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
+          
+        ATA 1Tera External HDD Hard Drive USB 2.0 ,Brand new HDD
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -243,16 +233,17 @@
     <!-- item -->
     <div class = "featured-item">
       <div class = "featured-item-img">
-        <img src = "assets/./img/pngegg (21).png" alt = "feature image">
+        <img src = "assets/./img/ra.jpg" alt = "feature image">
       </div>
       <div class = "featured-item-content">
         <div class = "title">
-          <h4>featured product </h4>
-          <h2>Gaming key board</h2>
-          <p class = "item-price">$0.00</p>
+          <h4>On Special </h4>
+          <h2>8 DD4 LAPTOP RAM</h2>
+          <p class = "item-price">Price $30.00</p>
+          <p class = "item-price"><m style="color: red;">$25,00<m/></p>
         </div>
         <p class = "text">
-         necessitatibus rem voluptas pariatur doloremque id culpa, eveniet, ratione libero eos fuga.
+         Good Working 8 DD4 LAPTOP RAM. Hurry while stock last.
         </p>
         <div class = "featured-btns">
           <button type = "button" class = "btn">Explore</button>
@@ -265,65 +256,7 @@
 </section>
 <!-- end of featured product -->
 
-<!-- blog -->
-<section class = "blog">
-  <div class = "container">
-    <div class = "title">
-      <h4>loren</h4>
-      <h2>lorem</h2>
-    </div>
 
-    <div class = "blog-grid">
-      <!-- item -->
-      <div class = "blog-item">
-        <div class = "blog-item-img">
-        <a href="/original doc/iwad Store - Computers.php">                    <img src = "assets/./img/pngegg (20).png" alt = "blog image"> </a>
-      
-        </div>
-        <div class = "blog-item-content">
- 
-                    <a href="/original doc/iwad Store - Computers.php">                 <h3 class="decoration__title"> More On computers on Sale </h3> </a>
-                 
-          <div>
-            <span>Coming soon</span>
-          </div>
-        </div>
-      </div>
-      <!-- end of item -->
-      <!-- item -->
-      <div class = "blog-item">
-        <div class = "blog-item-img">
-         
-        <a href="/original doc/iwad Store - Moblies.php">                          <img src = "assets/./img/pngegg (20).png" alt = "blog image"> </a>
- 
-        </div>
-        <div class = "blog-item-content">
-          
-        <a href="/original doc/iwad Store - Moblies.php">                 <h3 class="decoration__title"> More On Mobile  on Sale </h3> </a>
-          <div>
-            <span>Coming soon</span>
-          </div>
-        </div>
-      </div>
-      <!-- end of item -->
-      <!-- item -->
-      <div class = "blog-item">
-        <div class = "blog-item-img">
-        <a href="/original doc/iwad Store - Accesories.php">                         <img src = "assets/img/pngegg (20).png" alt = "blog image"> </a>
-
-        </div>
-        <div class = "blog-item-content">
-        <a href="/original doc/iwad Store - Accesories.php">                 <h3 class="decoration__title"> More On Accesory  on Sale </h3> </a>
-          <div>
-            <span>Lorem ipsum dolor</span>
-          </div>
-        </div>
-      </div>
-      <!-- end of item -->
-    </div>
-  </div>
-</section>
-<!-- end of blog -->
 
     <!--========== SEND Email==========-->
     <section class="send section">
