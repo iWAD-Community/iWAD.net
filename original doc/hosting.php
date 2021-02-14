@@ -73,7 +73,7 @@ All plans come with a standard 30-day money-back guarantee.    </p>
         </div>
       
         <div class="share__img">
-            <img src="assets/img/app dev.png" alt="">
+            <img src="assets/img/host.png" alt="">
         </div>
     </div>
     <h2 class="section-title-center"> |Domain Registration |  </h2>

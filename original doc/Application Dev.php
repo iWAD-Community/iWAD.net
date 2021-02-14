@@ -65,7 +65,7 @@
         </div>
       
         <div class="share__img">
-            <img src="assets/img/host.png" alt="">
+            <img src="assets/img/app dev.png" alt="">
         </div>
     </div>
     <h2 class="section-title-center"> | Custom mobile app development | </h2>
