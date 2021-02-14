@@ -57,7 +57,7 @@
 
 
 
-              <div class="share__container bd-grid">
+              
         <div class="share__data">
             <h2 class="section-title-center">| Web Development  |  </h2>
             <p class="share__description">  Our web developers dedicate themselves to the highest quality engineering. Python, Javascript frameworks,.Net, HTML, CSS and React,PHP, Angular and beyond. The team delivers remarkable fully responsive websites that will outdo your competition. Our web applications boast beauty and brains, with gorgeous design, cutting-edge code, exceptional usability, and conversion strategy built right into each and every one. iWAD has extensive experience creating innovative Websites  with different technologies.</p>
