@@ -18,7 +18,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Responsive landing page</title>
+        <title>Application Dev</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -65,7 +65,7 @@
         </div>
       
         <div class="share__img">
-            <img src="assets/img/app dev.png" alt="">
+            <img src="assets/img/host.png" alt="">
         </div>
     </div>
     <h2 class="section-title-center"> | Custom mobile app development | </h2>
