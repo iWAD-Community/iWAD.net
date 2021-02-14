@@ -76,9 +76,7 @@
           
         </div>
 
-        <div class="share__img">
-            <img src="assets/img/send1.png" alt="">
-        </div>
+      
     </div>
 
         <!--========== Start OUR SERVICES ==========-->
