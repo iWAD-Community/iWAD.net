@@ -18,7 +18,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Web Dev</title>
+        <title>Responsive landing page</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -76,6 +76,9 @@
           
         </div>
 
+        <div class="share__img">
+            <img src="assets/img/send1.png" alt="">
+        </div>
     </div>
 
         <!--========== Start OUR SERVICES ==========-->
@@ -161,7 +164,7 @@
                 <img src="assets/img/pngegg (5).png" alt="">
             </div>
         </div>
-    </section>
+    </se>
 </main>
 
 <!--========== SEND Email ==========-->
