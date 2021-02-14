@@ -210,24 +210,11 @@
   </section>
 <section class="share section bd-container" id="share">
 
-  <div class="share__data">
-      <h2 class="section-title-center">| Quality Assurance & Business Analysis| </h2>
-      <p class="share__description">We believe in getting it right every time - that's why our Quality Assurance and Production teams work separately. We conduct thorough and rigorous QA checks on all of our projects. We can also check third-party products to ensure you're getting what you expect.
-        Before iWAD actually engineers a product, we always talk to our customers to understand their needs. Our team can analyze your project's functionality, business logic, software architecture, and future user scenarios. We'll sweat the small stuff so you can focus on the big picture.
-        iWAD offers a service to update or replace your outdated legacy systems with cutting-edge new technologies and efficient custom software systems. We will bring back the efficiency of your business and get it to the new level to outrun your competition.
-    </p>
-
+<div></div>
     <div class="share__data">
-            <h2 class="section-title-center">| What We Promise| </h2>
-            <p class="share__description">We believe in getting it right every time - that's why our Quality Assurance and Production teams work separately. We conduct thorough and rigorous QA checks on all of our projects. We can also check third-party products to ensure you're getting what you expect.
-              Before iWAD actually engineers a product, we always talk to our customers to understand their needs. Our team can analyze your project's functionality, business logic, software architecture, and future user scenarios. We'll sweat the small stuff so you can focus on the big picture.
-              iWAD offers a service to update or replace your outdated legacy systems with cutting-edge new technologies and efficient custom software systems. We will bring back the efficiency of your business and get it to the new level to outrun your competition.
-              <h2 class = "text-large">fully responsive |</h2>
-              <p class = "text-light">We create quality websites that can work with all devices, Operating Systems and screen sizes. With the RESPONSIVENESS structure, these websites can be projected on a larger screen and still render well without cutting or shortening the display.</p>
+              <p class = "text-light">We create quality websites that can work with all devices, Operating Systems and screen sizes.</p>
               <h2 class = "text-large">fully customisable |</h2>
-              <p class = "text-light">As a bonus feature, iWAD added the Content Management System (CMS) to all the websites and webpages it Develops; enabling clients to add and remove any media from their respective sites they want at any time; depending with the size of the media and their Cloud storage partition.</p>
-              <h2 class = "text-large">awesome features |</h2>
-              <p class = "text-light">From animations, cool themes, awesome Gifs and color complementary elements; iWAD offers you one of the greatest, if not the greatest, visual treaties to your system; adding a creative and modern look to your business or project.</p>
+              <p class = "text-light">From animations, cool themes, awesome Gifs and color complementary elements; iWAD offers you one of the best, adding a creative and modern look to your business or project.</p>
           </p>
 </div>
 </section>
