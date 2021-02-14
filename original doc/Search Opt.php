@@ -52,53 +52,7 @@
           
 
   
-           <!-- welcome section -->
-           <div class = "head-body container">
-                <div class = "head-body-content">
-                <h2 class="section-title-center">|  Search Engine optimization|   </h2>
-                 
-                <h4>What Is SEO / Search Engine Optimization?</h4>
-                        Here at iWAD can provide u SEO Services bt first let us explain what it is all about,  SEO stands for “search engine optimization.” In simple terms, it means the process of improving your site to increase its visibility for relevant searches. The better visibility your pages have in search results, the more likely you are to garner attention and attract prospective and existing customers to your business.
-                  
-                  </p>
-                 
-                </div>
-          
-                <div class = "head-body-img">
-                  <img src = "./assets/img/search.png" alt = "header image">
-                </div>
-                  
 
-             
-        <div class="share__data">
-            <h2 class="section-title-center"> |  How does SEO work?| </h2>
-            <p class="share__description">Search engines such as Google and Bing use bots to crawl pages on the web, going from site to site, collecting information about those pages and putting them in an index. Next, algorithms analyze pages in the index, taking into account hundreds of ranking factors or signals, to determine the order pages should appear in the search results for a given query.
-
-                Search ranking factors can be considered proxies for aspects of the user experience. Our Periodic Table of SEO Factors organizes the factors into six main categories and weights each based on its overall importance to SEO. For example, content quality and keyword research are key factors of content optimization, and crawlability and mobile-friendliness are important site architecture factors.
-                
-                The search algorithms are designed to surface relevant, authoritative pages and provide users with an efficient search experience. Optimizing your site and content with these factors in mind can help your pages rank higher in the search results.
-                
-                Unlike paid search ads, you can’t pay search engines to get higher organic search rankings.
-
-                <h2> Why is SEO important for marketing?</h2>
-SEO is a fundamental part of digital marketing because people conduct trillions of searches every year, often with commercial intent to find information about products and services. Search is often the primary source of digital traffic for brands and complements other marketing channels. Greater visibility and ranking higher in search results than your competition can have a material impact on your bottom line.
-
-However, the search results have been evolving over the past few years to give users more direct answers and information that is more likely to keep users on the results page instead of driving them to other websites.
-
-Also note, features like rich results and Knowledge Panels in the search results can increase visibility and provide users more information about your company directly in the results.
- 
-
-      
-      
-    </div>
-
-          </p>
-      
-      
-    </div>
-              </div>
-
-</section>
 
 <section class="share section bd-container" id="share">
     <div class="share__container bd-grid">
@@ -112,7 +66,7 @@ Also note, features like rich results and Knowledge Panels in the search results
         </div>
       
         <div class="share__img">
-            <img src="assets/img/app dev.png" alt="">
+            <img src="assets/img/search.png" alt="">
         </div>
     </div>
     <h2 class="section-title-center">   |  How does SEO work?|</h2>
