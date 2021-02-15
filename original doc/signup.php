@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Leadcon Login Form</title>
+	<title>iWAD signup</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/signup.css">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
 	<script src="https://kit.fontawesome.com/a81368914c.js"></script>
