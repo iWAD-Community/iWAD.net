@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<!-- Website icon -->
+	<link rel="shortcut icon" type="image/png" href="assets/img/iwad logo icon 1.png">
+        <!-- Website icon -->
 	<title>iWAD signup</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/signup.css">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
@@ -11,7 +14,7 @@
 	<img class="wave" src="assets/img/wave.png">
 	<div class="container">
 		<div class="img">
-			<img src="assets/img/iwad logo 3.png">
+		<a href="/index.php"><img src="assets/img/iwad logo 3.png">  </a>
 		</div>
 		<div class="login-content">
 		<form action="includes/signup.inc.php" method="post">
