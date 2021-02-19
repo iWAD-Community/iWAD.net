@@ -18,7 +18,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Responsive landing page</title>
+        <title>Welcome To iWAD</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -199,26 +199,17 @@
     <section class="share section bd-container" id="share">
       <div class="share__container bd-grid">
           <div class="share__data">
-              <h2 class="section-title-center">| Product Development| </h2>
-              <p class="share__description">We've created, engineered, and delivered software solutions for Zimbabwean and South African companies in a few industries.iWAD customers get the best results every time because of our passion, expertise, and experience.</p>
-
+              <h2 class="section-title-center">| Introduction | </h2>
+              <p class="share__description">We are the iWad community.<br>
+               We create, engineer, and deliver software solutions for local and regional companies and businesses. <br>
+               The core of our design team could be expressed in one statement "give people access to superb technology with clarity and grace".<br>
+               iWAD customers get the best results every time because of our passion, expertise, and experience.</p>
           </div>
           <div class="share__img">
               <img src="assets/img/shared.PNG" alt="">
           </div>
       </div>
   </section>
-<section class="share section bd-container" id="share">
-
-<div></div>
-    <div class="share__data">
-              <p class = "text-light">We create quality websites that can work with all devices, Operating Systems and screen sizes.</p>
-              <h2 class = "text-large">fully customisable |</h2>
-              <p class = "text-light">From animations, cool themes, awesome Gifs and color complementary elements; iWAD offers you one of the best, adding a creative and modern look to your business or project.</p>
-          </p>
-</div>
-</section>
-
   <!--========== Start OUR SERVICES ==========-->
 
   <section class="decoration section bd-container" id="decoration">
@@ -277,7 +268,7 @@
            
             <a href="../Satellite installation & E paymentsh3.php"> <img src="assets/img/pngegg (24).png" alt="" class="decoration__img"></a>
             <h3 class="decoration__title">
-              Satellite installation & E payments </h3>
+              Satellite installation & Dstv payments </h3>
             
         </div>
          

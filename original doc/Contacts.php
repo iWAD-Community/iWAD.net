@@ -19,7 +19,7 @@
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel = "stylesheet" href="assets/css/main.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Responsive landing page</title>
+        <title>Contacts</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->

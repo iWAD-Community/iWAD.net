@@ -18,7 +18,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Responsive landing page</title>
+        <title>Satellite Dish</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->

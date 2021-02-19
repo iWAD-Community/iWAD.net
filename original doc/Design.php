@@ -18,7 +18,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Responsive landing page</title>
+        <title>Design</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -69,11 +69,22 @@ Other services provided by iWAD include Cloud, Email, WordPress, and Windows VPS
 
 All plans come with a standard 30-day money-back guarantee.   </p>
           
+<<<<<<< HEAD
+                <div class = "head-body-img">
+                  <img src = "./assets/img/design.png" alt = "header image">
+                </div>
+                  
+
+             
+        <div class="share__data">
+    <div>
+=======
         </div>
       
         <div class="share__img">
             <img src="assets/img/design.png" alt="">
         </div>
+>>>>>>> bc53888e2ea606b88825c9acfb7f13d23b8aeabf
     </div>
     <h2 class="section-title-center"> | design | </h2>
             <p class="share__description"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi a in cum autem temporibus. Ipsa dolorum odit architecto nostrum, accusamus totam molestiae voluptatibus sed id perferendis atque quis animi quidem.</p>

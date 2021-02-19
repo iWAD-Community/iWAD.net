@@ -18,7 +18,7 @@
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
-        <title>Responsive landing page</title>
+        <title>Computer Services</title>
     </head>
     <body>
         <!--========== SCROLL TOP ==========-->
@@ -54,6 +54,20 @@
   
 
 
+<<<<<<< HEAD
+the cheapest plan doesn’t include a free domain and has limited processing power and memory.
+
+Other services provided by iWAD include Cloud, Email, WordPress, and Windows VPS hosting plans.
+
+All plans come with a standard 30-day money-back guarantee.    
+                  </p>
+                 
+                </div>
+                
+                <div class = "head-body-img">
+                  <img src = "./assets/img/coputer.png" alt = "header image">
+                </div>
+=======
 <section class="share section bd-container" id="share">
     <div class="share__container bd-grid">
         <div class="share__data">
@@ -64,6 +78,7 @@
 .   </p>
           
         </div>
+>>>>>>> bc53888e2ea606b88825c9acfb7f13d23b8aeabf
       
         <div class="share__img">
             <img src="assets/img/coputer.png" alt="">
