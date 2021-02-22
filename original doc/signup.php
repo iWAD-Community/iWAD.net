@@ -10,7 +10,46 @@
 	<script src="https://kit.fontawesome.com/a81368914c.js"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body>
+<body onload = "preloader()">
+  <!-- START PRE LOADER-->  
+  <div id="preloader">
+    <div class="gify">
+
+    </div>
+  </div>
+  <style>
+    #preloader{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background-color: #0d0121;
+
+    background-size: cover;
+  z-index: 99999;
+  }
+  .gify{
+    background-image: url("../assets/img/liquid-preloader_dribbble_v2.gif");
+    background-position: center;
+    background-attachment: fixed;
+    height: 70%;
+    width:50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top:10% ;
+  }
+
+  </style>
+  <script>
+
+    var preloadervar = document.getElementById("preloader")
+    function preloader(){
+       preloadervar.style.display = "none";
+       console.log("Display Gon");
+        
+    }
+  </script>
+  <!-- end PRE LOADER-->
+
 	<img class="wave" src="assets/img/wave.png">
 	<div class="container">
 		<div class="img">

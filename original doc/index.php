@@ -17,25 +17,36 @@
 
         <!--========== CSS ==========-->
         <link rel="stylesheet" href="assets/css/styles.css">
-        <link rel="stylesheet" href="./assets/css/iwad store ani.css">
+        <link rel="stylesheet" href="assets/css/iwad store ani.css">
         <title>Welcome To iWAD</title>
     </head>
 <body onload = "preloader()">
   <!-- START PRE LOADER-->  
   <div id="preloader">
-  
+    <div class="gify">
+
+    </div>
   </div>
   <style>
     #preloader{
-  position: fixed;
-  width: 100%;
-  background-image: url("../assets/img/liquid-preloader_dribbble_v2.gif");
-  background-position: center;
-  background-attachment: fixed;
-  height: 100vh;
-  background-size: cover;
-z-index: 99999;
-}
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background-color: #0d0121;
+
+    background-size: cover;
+  z-index: 99999;
+  }
+  .gify{
+    background-image: url("../assets/img/liquid-preloader_dribbble_v2.gif");
+    background-position: center;
+    background-attachment: fixed;
+    height: 70%;
+    width:50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top:10% ;
+  }
 
   </style>
   <script>
