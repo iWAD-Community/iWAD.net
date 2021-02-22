@@ -1,6 +1,21 @@
 /*===== GOOGLE FONTS =====*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
-
+/*===== PRELOADER ======*/
+.iwadLogo{
+  padding-top: 5%;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: auto;
+} 
+.iwadLogo #logo{
+  margin-left: 45%;
+};
+.loader{
+  padding-top: 5%;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: auto;
+}
 /*===== VARIABLES CSS =====*/
 :root {
   --header-height: 3rem;
