@@ -20,9 +20,34 @@
         <link rel="stylesheet" href="./assets/css/iwad store ani.css">
         <title>Welcome To iWAD</title>
     </head>
-    <body>
-        <!--========== SCROLL TOP ==========-->
+<body onload = "preloader()">
+  <!-- START PRE LOADER-->  
+  <div id="preloader">
+  
+  </div>
+  <style>
+    #preloader{
+  position: fixed;
+  width: 100%;
+  background-image: url("../assets/img/liquid-preloader_dribbble_v2.gif");
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  background-size: cover;
+z-index: 99999;
+}
+
+  </style>
+  <script>
+
+    var preloadervar = document.getElementById("preloader")
+    function preloader(){
+       preloadervar.style.display = "none";
+       console.log("Display Gon");
+        
+    }
   </script>
+  <!-- end PRE LOADER-->
  <!--========== SCROLL TOP ==========-->
         <a href="#" class="scrolltop" id="scroll-top">
             <i class='bx bx-up-arrow-alt scrolltop__icon'></i>
