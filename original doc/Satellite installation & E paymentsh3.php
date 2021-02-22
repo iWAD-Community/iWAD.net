@@ -29,7 +29,7 @@
         <!--========== HEADER ==========-->
         <header class="l-header" id="header">
           <nav class="nav bd-container">
-              <a href="iwad Store.php" class="nav__item" style="position: fixed;"><img src="assets/img/home.png"height="40px"width="143px"></a>                
+              <a href="index.php" class="nav__item" style="position: fixed;"><img src="assets/img/home.png"height="40px"width="143px"></a>                
           
               <div class="nav__menu" id="nav-menu">
                   <ul class="nav__list">
