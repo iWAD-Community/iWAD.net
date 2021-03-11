@@ -218,7 +218,7 @@
             }
             slides[slideIndex-1].style.display = "block";  
             dots[slideIndex-1].className += " active";
-            setTimeout(showSlides, 3500); // Change image every 3.5 seconds
+            setTimeout(showSlides, 5000); // Change image every 3.5 seconds
           }
           </script>
           
@@ -237,7 +237,7 @@
     <section class="share section bd-container" id="share">
       <div class="share__container bd-grid">
           <div class="share__data">
-              <h2 class="section-title-center">| Introduction | </h2>
+              <h2 class="section-title-center"></h2>
               <p class="share__description">We are the iWad community.<br>
                We create, engineer, and deliver software solutions for local and regional companies and businesses. <br>
                The core of our design team could be expressed in one statement "give people access to superb technology with clarity and grace".<br>

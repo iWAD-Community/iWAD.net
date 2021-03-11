@@ -88,32 +88,7 @@
               </div>
           </nav>
       </header>
-          
-
-  
-<<<<<<< HEAD
-           <!-- welcome section -->
-           <div class = "head-body container">
-                <div class = "head-body-content">
-                <h2 class="section-title-center">|  Search Engine optimization|   </h2>
-                 
-                <h4>What Is SEO / Search Engine Optimization?</h4>
-                        Here at iWAD can provide you SEO Services but first let us explain what it is all about.   
-                        SEO stands for “search engine optimization.” In simple terms, it means the process of improving your site to increase its visibility for relevant searches.
-                        The better visibility your pages have in search results, the more likely you are to garner attention and attract prospective and existing customers to your business.
-                  
-                  </p>
-                 
-                </div>
-          
-                <div class = "head-body-img">
-                  <img src = "./assets/img/search.png" alt = "header image">
-                </div>
-                  
-=======
->>>>>>> bc53888e2ea606b88825c9acfb7f13d23b8aeabf
-
-
+    <br>
 <section class="share section bd-container" id="share">
     <div class="share__container bd-grid">
         <div class="share__data">

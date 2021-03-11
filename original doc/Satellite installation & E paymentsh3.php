@@ -96,7 +96,7 @@
         <div class="share__data">
             <h2 class="section-title-center"> | Satilile|
                       </h2>
-                  </h2> Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, harum! Eius modi voluptatum ratione. Eligendi quo neque corporis, commodi esse sapiente, facilis atque doloremque itaque explicabo assumenda laudantium. Harum, quibusdam!  </p>
+                  </h2> </p>
           
         </div>
       
@@ -105,7 +105,7 @@
         </div>
     </div>
     <h2 class="section-title-center"> | more | </h2>
-            <p class="share__description"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi a in cum autem temporibus. Ipsa dolorum odit architecto nostrum, accusamus totam molestiae voluptatibus sed id perferendis atque quis animi quidem.</p>
+            <p class="share__description"></p>
     </section>
 
         <!--========== Start OUR SERVICES ==========-->
