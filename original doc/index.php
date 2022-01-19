@@ -76,8 +76,8 @@
                       <li class="nav__item"><a href="About us.php" class="nav__link">About Us</a></li>
                       <li class="nav__item"><a href="iwad Store.php" class="nav__link ">iWAD Store</a></li>
                       <li class="nav__item"><a href="Contacts.php" class="nav__link">Contact Us</a></li>
- 
-                      <li class="nav__item"><a href="signup.php" class="nav__links">Sign Up</a></li>
+                      <li class="nav__item"><a href="signup.php" class="nav__link">Sign up</a></li>
+                   
                       <li><i class='bx bx-moon change-theme' id="theme-button"></i></li>
                   </ul>
               </div>
